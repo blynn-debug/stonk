@@ -1,0 +1,2183 @@
+Address: 0xd929fce8...a6c6bc619 | BaseScan
+ETH Price:
+$2,398.77
+(-3.37%)
+Gas:
+0.005 Gwei
+/
+Light
+Dim
+Dark
+Auto (System)
+Base Mainnet
+Base Sepolia Testnet
+Sign In
+Home
+Blockchain
+Transactions
+Latest L1→L2 Transactions
+Latest L2→L1 Transactions
+Contract Internal Transactions
+Cross-Chain Transactions
+AA Transactions
+EIP-7702 Authorizations
+Beta
+View Blocks
+View L1 Transaction Batches
+View L1 State Batches
+Top Accounts
+Verified Contracts
+Tokens
+Top Tokens
+(ERC-20)
+Token Transfers
+(ERC-20)
+Token Flow Visualizer
+Beta
+NFTs
+Latest Transfers
+Latest Mints
+Resources
+Charts &  Stats
+Directory
+API
+Multichain API
+API Pricing
+API Documentation
+More
+Developer Tools
+Input Data Encoder
+Beta
+Input Data Decoder
+Unit Converter
+Download Data (CSV Export)
+Account Balance Checker
+Broadcast Transaction
+Bytecode to Opcode
+Smart Contract Tools
+Code Reader
+Verify Contract
+Similar Contract Search
+Contract Diff Checker
+Vyper Online Compiler
+Explore
+Gas Tracker
+Label Cloud
+Domain Name Lookup
+Services
+Token Approvals
+Verified Signature
+Input Data Messages (IDM)
+Advanced Filter
+Explorers
+Base Mainnet
+Base Sepolia Testnet
+Site Settings
+Appearance
+Light
+Dim
+Dark
+Auto (System)
+|
+Sign In
+Contract
+0xD929fCE80152e986088aF291B582890a6C6bC619
+Buy
+Sponsored
+etoro
+Explore Crypto
+Start Investing.
+Explore a diverse range of leading cryptoassets and trade them alongside stocks, ETFs, and more.
+Play
+Sponsored
+BC.Game
+The best crypto casino in the world. Get up to 5 BtC in daily bonuses with our free spin wheel.
+Spin Now!
+Join now and instantly enjoy bonus of 1000000 USDC, 760% exclusive deposit bonus.
+Rainbet
+Crypto Casino & Sportsbook
+Play Now!
+Originals, Slots, Sports. Up to 80% back in unmatched rewards. 1.5M in races a month!
+Vavada
+Crypto Casino with Top Slots & Live Games
+Play Now
+Get a 100% bonus up to 1000 USDT + 100 FS and play with crypto
+Gaming
+Sponsored
+BC.Game
+The best crypto casino in the world. 760% exclusive deposits bonus.
+Deposit Now!
+50+ token options, 100% bet insurance for a worry-free gaming experience.
+Stake
+200% Bonus, Instant Withdrawals, 100K Daily Giveaways, BEST VIP Club
+Claim Bonus!
+20+ Cryptos, 3000+ Slots, Daily & Monthly Bonuses, Exclusive Sports Promos - Provably Fair!
+Kings.Game
+500% Bonus, 30% Rakeback, Exclusive VIP Club & Tournaments, Instant Withdrawals
+Win Now!
+Enjoy Crypto & Banking, 8000+ Games & Sports, Missions, Daily, Weekly and Monthly Bonuses, Reload, Annual rewards.
+Source Code
+Source Code (Proxy)
+Implementation:
+0xe5A320aC...CB1896c04
+API
+Token Approvals
+Beta
+Check Previous Balance
+Update Name Tag or Label
+Report/Flag Address
+Overview
+ETH Balance
+0 ETH
+ETH Value
+$0.00
+Token Holdings
+>$60,270.70
+(>122 Tokens)
+Could not find any matches!
+ERC-20 Tokens (>100)
+CLAWBSTER (
+CLAWBS...
+)
+5,000 CLAWBSTR
+$0.00
+Crypto Pump ...
+(CPM)
+225 CPM
+$0.00
+@0.00
+Cypher (CYPR)
+0.01830351 CYPR
+$0.00
+GOLD PUMP ME...
+(GPM)
+14 GPM
+$0.00
+@0.00
+$SKITTEN (
+skitte...
+)
+8.40069 skitten
+$0.00
+@0.00
+1clawAI (
+1clawa...
+)
+1,767,876,551.50316 1clawai
+$4,967.73
+@0.00
+Alphabet Inc...
+(GOOGLc)
+0.00053507 GOOGLc
+$0.18
+@345.14
+Ample (ampd)
+3,351,822.79103483 ampd
+$247.33
+@0.0001
+Apple Inc. (AAPLc)
+0.00003786 AAPLc
+$0.01
+@331.07
+BankrCoin (BNKR)
+71,370,229.9724687 BNKR
+$14,043.52
+@0.0002
+BASE KAKA (BAKA)
+50 BAKA
+$0.00
+Based Coin (BASED)
+1,750 BASED
+$0.01
+@0.00
+BlackRock iS...
+(wtsgov)
+0.00013211 wtsgov
+$0.01
+@101.64
+Coinbase Glo...
+(wtcoin)
+0.01074885 wtcoin
+$1.85
+@172.26
+DebtReliefBo...
+(DRB)
+58,790,913.5110407 DRB
+$9,700.50
+@0.0002
+Donut (donut)
+0 donut
+$0.00
+@0.0039
+FRAME (frame)
+0 frame
+$0.00
+@0.0001
+fredwilson (
+fredwi...
+)
+0 fredwilson
+$0.00
+@0.00
+Hermes Deskt...
+(hd)
+690,701,298.093108 hd
+$226.27
+@0.00
+Heurist (HEU)
+0 HEU
+$0.00
+@0.0015
+Hunter Biden...
+(LAPTOP)
+0.01287789 LAPTOP
+$0.00
+Hydrex (HYDX)
+197,270.39449256 HYDX
+$5,779.88
+@0.0293
+Invesco NASD...
+(wtqqqm)
+0.00048993 wtqqqm
+$0.14
+@290.21
+Juno Agent (juno)
+0.00000001 juno
+$0.00
+@0.00
+LienFi (lfi)
+166,063,220.077107 lfi
+$8,726.62
+@0.0001
+lilmiquela.b...
+(
+lilmiq...
+)
+0.77777 lilmiquela.base.eth
+$0.00
+@0.00
+MiroShark (
+mirosh...
+)
+375,838,251.942703 miroshark
+$924.56
+@0.00
+nftwizard (nftwiz)
+10,000 nftwiz
+$2.46
+@0.0002
+NVIDIA Corpo...
+(NVDAc)
+0.012417 NVDAc
+$2.65
+@213.80
+Rabbi Schlom...
+(SHEKEL)
+0 SHEKEL
+$0.00
+REI (REI)
+1,214,504.11935507 REI
+$15,215.67
+@0.0125
+REPPO (reppo)
+432.95785538 reppo
+$5.53
+@0.0128
+Seamless (SEAM)
+0 SEAM
+$0.00
+@0.0124
+Space Explor...
+(SPCXc)
+0.00017838 SPCXc
+$0.03
+@144.30
+SpaceX (ST0x...
+(wtspcx)
+0.00044361 wtspcx
+$0.06
+@136.70
+Syndicate (SYND)
+0 SYND
+$0.00
+@0.0099
+Tesla Inc. (TSLAc)
+0.00015888 TSLAc
+$0.06
+@357.81
+Toshi (TOSHI)
+0 TOSHI
+$0.00
+@0.0001
+TRUST (TRUST)
+0 TRUST
+$0.00
+USIC (usi)
+103,333 usi
+$0.00
+Venice Token (VVV)
+0.00026941 VVV
+$0.01
+@21.85
+Wrapped Ethe...
+(WETH)
+0.00005273 WETH
+$0.13
+@2,399.87
+Zora (ZORA)
+0 ZORA
+$0.00
+@0.0073
+Coinbase Wra...
+(cbBTC)
+0.00000008 cbBTC
+$0.01
+@75,771.00
+USDC (USDC)
+425.590727 USDC
+$425.47
+@0.9997
+ERC20 ***
+1
+$0.00
+ERC20 ***
+55
+$0.00
+ERC20 ***
+55
+$0.00
+ERC20 ***
+10
+$0.00
+ERC20 ***
+713
+$0.00
+ERC20 ***
+85
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+22
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+2,577
+$0.00
+ERC20 ***
+1
+$0.00
+ERC20 ***
+948
+$0.00
+ERC20 ***
+50
+$0.00
+ERC20 ***
+15
+$0.00
+ERC20 ***
+50
+$0.00
+ERC20 ***
+250
+$0.00
+ERC20 ***
+1
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+50
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+845.58705381
+$0.00
+ERC20 ***
+400.87797224
+$0.00
+ERC20 ***
+1
+$0.00
+ERC20 ***
+353
+$0.00
+ERC20 ***
+1,329
+$0.00
+ERC20 ***
+326
+$0.00
+ERC20 ***
+1,824
+$0.00
+ERC20 ***
+20
+$0.00
+ERC20 ***
+1
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+50
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+40
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+110
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+100
+$0.00
+ERC20 ***
+50
+$0.00
+ERC20 ***
+20
+$0.00
+ERC20 ***
+10
+$0.00
+ERC20 ***
+110
+$0.00
+ERC20 ***
+1,000
+$0.00
+ERC20 ***
+1
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+100
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+5
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+20
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+25
+$0.00
+ERC20 ***
+985
+$0.00
+ERC20 ***
+3,197.2935269
+$0.00
+ERC20 ***
+100
+$0.00
+NFT Tokens (22)
+x2
+ERC-1155
+ERC-1155
+ERC-1155
+$HYPEDROP
+HYPEDROP
+ERC-1155
+1
+1
+ERC-1155
+Bored Collection
+BCL
+ERC-1155
+Bored Collection
+BCL
+ERC-1155
+Builder Tower — 3 Years of Base
+TOWER3
+ERC-721
+Shiba Inu Token Airdrop
+t.me/s/shibpool
+ERC-1155
+SUI-EARN
+SUI-EARN
+ERC-1155
+USDrewards.net
+USD
+ERC-1155
+↪️ 0xv4.xyz - $CAKE Distribution ✔️
+CAKE
+ERC-721
+View All Holdings
+More Info
+Private Name Tags
+Add
+Contract
+Creator
+Bundler: 0xd05...ac1
+|
+324 days ago
+Multichain Info
+$241,881.33
+(Multichain Portfolio)
+3 addresses found via
+Blockscan
+Robinscan
+($173,091)
+Etherscan
+($2,279)
+BscScan
+($2)
+Blockscan (View All)
+Ad
+Transactions
+Internal Transactions
+Token Transfers (ERC-20)
+NFT Transfers
+Other Transactions
+Contract
+Events
+Analytics
+Assets
+Cards
+New
+Advanced Filter
+Latest 25 from a total of
+24,664
+transactions
+Download Page Data
+View Completed Txns
+View Pending Txns
+View Failed Txns
+View Outgoing Txns
+View Incoming Txns
+View Contract Creation
+Transaction Hash
+Method
+Block
+From
+To
+0xfcd1bd151550bf75233aa98ee02e0bb0a9b0acf8413f0c1411cd50f70e3050fa
+Swap
+Swap
+51375080
+2026-09-16 6:18:27
+1 hr ago
+1789539507
+Bundler: 0xbd6...647
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00001996
+0
+.
+01100142
+0x70ff5497f10f53580bd68ba38375d6a46d176dbb237d87699c8b435856584e09
+Swap
+Swap
+51359683
+2026-09-15 21:45:13
+9 hrs ago
+1789508713
+Bundler: 0xbd6...647
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00001485
+0
+.
+01100115
+0x14925ee371da80b467bada2f5171f6e26b0b98242d8a7d94774a6522a0a926b4
+Swap
+Swap
+51359679
+2026-09-15 21:45:05
+9 hrs ago
+1789508705
+Bundler: 0xb8d...aa5
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00001381
+0
+.
+01100143
+0x39818db45b9c3b743d980a6461c3e663d7714612abb7884eeb5cc9aa3b5ebe55
+Swap
+Swap
+51298294
+2026-09-14 11:38:55
+43 hrs ago
+1789385935
+Bundler: 0x4ab...ed3
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00000543
+0
+.
+00778503
+0x5582d6e3c991d803a51ccd7fe7930752c64ca94f731365ccf60972cc2bb4ed0a
+Swap
+Swap
+51261319
+2026-09-13 15:06:25
+2 days ago
+1789311985
+Bundler: 0xf5b...9a9
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00001163
+0
+.
+01000119
+0x9ec5296eeff7f09074fd0934fc38b47eccbf0d23ac8b560d9afacad48a4e7bc2
+Swap
+Swap
+51260705
+2026-09-13 14:45:57
+2 days ago
+1789310757
+Bundler: 0xbd6...647
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00004726
+0
+.
+02299614
+0x34a2f6647c800a3fac2fcbcde67d7ddd00d5b79b96b04592a651895a6467ad82
+Swap
+Swap
+51260690
+2026-09-13 14:45:27
+2 days ago
+1789310727
+Bundler: 0x6b6...6ff
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00004033
+0
+.
+02299423
+0x93b195f9ac92da99b81ae306d7d65cb96a8a1f8f939e654e5f4178ebbc5246e5
+Swap
+Swap
+51252864
+2026-09-13 10:24:35
+2 days ago
+1789295075
+Bundler: 0x6b6...6ff
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00003685
+0
+.
+01500193
+0x85e505690fea489744c3da63b47bd78a006be13f0f61a98a9f080a8e2890083a
+Swap
+Swap
+51252072
+2026-09-13 9:58:11
+2 days ago
+1789293491
+Bundler: 0x852...d54
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00002713
+0
+.
+01838449
+0x2016597bb7653f9da8061d8bbd98947db0c51f9ab1e4a3eb3931f4719bcc7644
+Swap
+Swap
+51252060
+2026-09-13 9:57:47
+2 days ago
+1789293467
+Bundler: 0x6b6...6ff
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00002121
+0
+.
+015902
+0x1296ba087abdc4913fb38089f0d3e3ec12768afdc42b8f32e2107d54c783c00a
+Swap
+Swap
+51174964
+2026-09-11 15:07:55
+4 days ago
+1789139275
+Bundler: 0xcea...3bc
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00003983
+0
+.
+02446881
+0x39d092d38185ba8ad42323caad9ed93181a886823647a00c0507d08bd94a81de
+Swap
+Swap
+51166906
+2026-09-11 10:39:19
+4 days ago
+1789123159
+Bundler: 0xf5b...9a9
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00000936
+0
+.
+01000186
+0x41e655b1018f8f96a9add72bf5647c0af2484e349e08b9914129f1fd6abdc460
+Swap
+Swap
+51157281
+2026-09-11 5:18:29
+5 days ago
+1789103909
+Bundler: 0xcea...3bc
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00001668
+0
+.
+009003
+0x86d158dd104208650e2e64492af85df9cfe4be028ecb617c4bbd4765951c0bef
+Swap
+Swap
+51137127
+2026-09-10 18:06:41
+5 days ago
+1789063601
+Bundler: 0xbd6...647
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00001962
+0
+.
+03200156
+0x63f3006c954b82c1c99163a5b5f3f5ce2df9ef0b1b88d1fa05f573d39fd180aa
+Swap
+Swap
+51137104
+2026-09-10 18:05:55
+5 days ago
+1789063555
+Bundler: 0xfa5...186
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00002743
+0
+.
+03303156
+0x78d727f03244e9944c09dfc5b087a8459e026e62702c5e53978b52b3a6777e97
+Swap
+Swap
+51132997
+2026-09-10 15:49:01
+5 days ago
+1789055341
+Bundler: 0x4ab...ed3
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00000395
+0
+.
+005
+0xf6e5214e12d88972f113d9075547b02842a675d84bdf6ac1f9a1ccfedb88875d
+Swap
+Swap
+51125496
+2026-09-10 11:38:59
+5 days ago
+1789040339
+Bundler: 0x3d8...380
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00000858
+0
+.
+00521076
+0xa3f55f891eccc41712ed7e3fb57e1bfdc62cba3bc6fa1e5e6f9fafc039680bf0
+Swap
+Swap
+51125260
+2026-09-10 11:31:07
+5 days ago
+1789039867
+Bundler: 0x272...ca9
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00002173
+0
+.
+00620907
+0xde83715f0669571d1db829855cf9f7fe576310a527b9a187ca8914c88cd0f672
+Swap
+Swap
+51125191
+2026-09-10 11:28:49
+5 days ago
+1789039729
+Bundler: 0x6b6...6ff
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00000475
+0
+.
+00517575
+0xe2045c83e51f02683ad62c87d0f138d90bb1781c2eff71b1c0e81084064ce7f5
+Swap
+Swap
+51120337
+2026-09-10 8:47:01
+5 days ago
+1789030021
+Bundler: 0x272...ca9
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00000509
+0
+.
+00532194
+0xe0f139c99eed530aa3ef4e9a81bc930a69cf931790c05182ea60370f3c0f591e
+Swap
+Swap
+51120324
+2026-09-10 8:46:35
+5 days ago
+1789029995
+Bundler: 0xf5b...9a9
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00001567
+0
+.
+00547019
+0x17283357339885bf3f00fc36a8f237316511fcdac6b39818fac7f25cce2ca531
+Swap
+Swap
+51120313
+2026-09-10 8:46:13
+5 days ago
+1789029973
+Bundler: 0x852...d54
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00001367
+0
+.
+0055613
+0x2ad6ff2cb2e3edabb417e90391935c77090e592be1dda54d0a7de49e3827d9a1
+Swap
+Swap
+51120305
+2026-09-10 8:45:57
+5 days ago
+1789029957
+Bundler: 0x3ee...224
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00001575
+0
+.
+00572358
+0x06bd9e731fc43ec5cbf20fc0e454791e2e0abc95b22c11b5b2911d18ee1baf1c
+Swap
+Swap
+51120299
+2026-09-10 8:45:45
+5 days ago
+1789029945
+Bundler: 0x4ab...ed3
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+0000064
+0
+.
+00563852
+0xc6717fc2e974b8b52bd860c2e9dd3dceee383f97179d4ba1fb61ca4d2f997b7f
+Swap
+Swap
+51072565
+2026-09-09 6:14:37
+7 days ago
+1788934477
+Bundler: 0xcea...3bc
+IN
+0xD929fCE8...a6C6bC619
+$0.00
+0 ETH
+0
+.
+00001071
+0
+.
+00517054
+View all transactions
+Latest 25 internal transactions (
+View All
+)
+Download Page Data
+Parent Transaction Hash
+Block
+From
+To
+0xf1faaff03691b6349e0691a4e4de6a9dee0044518e33e5ae3ad4f4612b300aca
+49394467
+2026-08-01 9:58:01
+45 days ago
+1785578281
+0xD929fCE8...a6C6bC619
+LI.FI: LiFi Diamond
+0.03870094 ETH
+$92.83
+0xf1faaff03691b6349e0691a4e4de6a9dee0044518e33e5ae3ad4f4612b300aca
+49394467
+2026-08-01 9:58:01
+45 days ago
+1785578281
+0xD929fCE8...a6C6bC619
+Bundler: 0x852...d54
+0.0002388 ETH
+$0.57
+0x3f3a468e05853c9ef5e511c98ac23516da9d93ab2f68407cb85e4a869c64ac84
+40279924
+2026-01-02 10:19:55
+256 days ago
+1767349195
+0xD929fCE8...a6C6bC619
+OKX Labs: Old DEX Router 8
+0.0129436 ETH
+$31.05
+0x3f3a468e05853c9ef5e511c98ac23516da9d93ab2f68407cb85e4a869c64ac84
+40279924
+2026-01-02 10:19:55
+256 days ago
+1767349195
+0xD929fCE8...a6C6bC619
+0x4F8fc803...02fa84A63
+0.00003631 ETH
+$0.09
+0x0a4efdb6e53219fa22744005ab9fd6a959b2b04f4bcfaef229aeff9e00374704
+40279847
+2026-01-02 10:17:21
+256 days ago
+1767349041
+0xD929fCE8...a6C6bC619
+KyberSwap: Meta Aggregation Router v2
+0.0478162 ETH
+$114.70
+0x0a4efdb6e53219fa22744005ab9fd6a959b2b04f4bcfaef229aeff9e00374704
+40279847
+2026-01-02 10:17:21
+256 days ago
+1767349041
+0xD929fCE8...a6C6bC619
+0x1ad2dF0E...005Bf3B60
+0.00010963 ETH
+$0.26
+0x6eb92e0d058802a6b7bf8b3e8a70c31966b089f6621dd979b559bfdc6963beba
+39809869
+2025-12-22 13:11:25
+267 days ago
+1766409085
+0xD929fCE8...a6C6bC619
+0x: Allowance Holder
+4.19369417 ETH
+$10,059.71
+0x6eb92e0d058802a6b7bf8b3e8a70c31966b089f6621dd979b559bfdc6963beba
+39809869
+2025-12-22 13:11:25
+267 days ago
+1766409085
+0xD929fCE8...a6C6bC619
+0x7470A213...a1dd3cA52
+0.00630582 ETH
+$15.13
+0x7b91ea3fc0e5d90830a265ec6554bab9182fe122f43e7650ac721d561caf8ab6
+37947940
+2025-11-09 10:47:07
+310 days ago
+1762685227
+0xD929fCE8...a6C6bC619
+OKX Labs: Old DEX Router 5
+0.04068942 ETH
+$97.60
+0x7b91ea3fc0e5d90830a265ec6554bab9182fe122f43e7650ac721d561caf8ab6
+37947940
+2025-11-09 10:47:07
+310 days ago
+1762685227
+0xD929fCE8...a6C6bC619
+0xEf586A26...B8Dd14FF9
+0.00009254 ETH
+$0.22
+0xa8a7105aa03b2caa1cdb2966a2893da28ceff8dad711f4e63ab5d939f0cf0001
+37564729
+2025-10-31 13:53:25
+319 days ago
+1761918805
+0xD929fCE8...a6C6bC619
+1inch: Aggregation Router V6
+0.01578157 ETH
+$37.86
+0xa8a7105aa03b2caa1cdb2966a2893da28ceff8dad711f4e63ab5d939f0cf0001
+37564729
+2025-10-31 13:53:25
+319 days ago
+1761918805
+0xD929fCE8...a6C6bC619
+0x25378b42...5B5786CDD
+0.00010942 ETH
+$0.26
+0xed5e0097c41df7b989465745a031c7de52793657dd87a9ad2db1a3abc2fece61
+37561331
+2025-10-31 12:00:09
+319 days ago
+1761912009
+0xD929fCE8...a6C6bC619
+1inch: Aggregation Router V6
+0.01316279 ETH
+$31.57
+0xed5e0097c41df7b989465745a031c7de52793657dd87a9ad2db1a3abc2fece61
+37561331
+2025-10-31 12:00:09
+319 days ago
+1761912009
+0xD929fCE8...a6C6bC619
+Bundler: 0xd05...ac1
+0.0000822 ETH
+$0.20
+0x1b29b253370634e6ba2548db230c2eebfcc16296602f94ba1e5769630a30f11f
+37559137
+2025-10-31 10:47:01
+319 days ago
+1761907621
+0xD929fCE8...a6C6bC619
+GlueX: Router v1.1
+0.0104314 ETH
+$25.02
+0x1b29b253370634e6ba2548db230c2eebfcc16296602f94ba1e5769630a30f11f
+37559137
+2025-10-31 10:47:01
+319 days ago
+1761907621
+0xD929fCE8...a6C6bC619
+0x4F8fc803...02fa84A63
+0.00005859 ETH
+$0.14
+0xc4adeff12b9fc32d96d83cd7cd52a2c946fdba407c62fa7d5a000989764f1fef
+37557854
+2025-10-31 10:04:15
+319 days ago
+1761905055
+0xD929fCE8...a6C6bC619
+Odos: Router V2
+0.018074 ETH
+$43.36
+0xc4adeff12b9fc32d96d83cd7cd52a2c946fdba407c62fa7d5a000989764f1fef
+37557854
+2025-10-31 10:04:15
+319 days ago
+1761905055
+0xD929fCE8...a6C6bC619
+0x7470A213...a1dd3cA52
+0.00011799 ETH
+$0.28
+0x4611f8a08f6b7e0aac46f06fa33dc7cbfec2414d6bc8ed549f8744bb3dcdf5dd
+37556083
+2025-10-31 9:05:13
+319 days ago
+1761901513
+0xD929fCE8...a6C6bC619
+1inch: Aggregation Router V6
+0.01846059 ETH
+$44.28
+0x4611f8a08f6b7e0aac46f06fa33dc7cbfec2414d6bc8ed549f8744bb3dcdf5dd
+37556083
+2025-10-31 9:05:13
+319 days ago
+1761901513
+0xD929fCE8...a6C6bC619
+0xEf586A26...B8Dd14FF9
+0.0001314 ETH
+$0.32
+0xee16b4a84667c2666235661184a35c9773af31229deafca6c9aa4ce0ca8911ba
+37553733
+2025-10-31 7:46:53
+319 days ago
+1761896813
+0xD929fCE8...a6C6bC619
+Odos: Router V2
+0.03134116 ETH
+$75.18
+0xee16b4a84667c2666235661184a35c9773af31229deafca6c9aa4ce0ca8911ba
+37553733
+2025-10-31 7:46:53
+319 days ago
+1761896813
+0xD929fCE8...a6C6bC619
+0xb60Afc03...7e2113933
+0.00017483 ETH
+$0.42
+0x8d95e062ca4cfaaa109ccd169d001dab1668e69eab1695fd6525f8929bf83237
+37548570
+2025-10-31 4:54:47
+320 days ago
+1761886487
+0xD929fCE8...a6C6bC619
+GlueX: Router v1.1
+0.03320625 ETH
+$79.65
+0x8d95e062ca4cfaaa109ccd169d001dab1668e69eab1695fd6525f8929bf83237
+37548570
+2025-10-31 4:54:47
+320 days ago
+1761886487
+0xD929fCE8...a6C6bC619
+0x4F8fc803...02fa84A63
+0.00017274 ETH
+$0.41
+0x6139cd65c1a92a5c861428ecb511cbdbf91dc384d073cb80ad38b3d5f1865268
+37543786
+2025-10-31 2:15:19
+320 days ago
+1761876919
+0xD929fCE8...a6C6bC619
+1inch: Aggregation Router V6
+0.01275638 ETH
+$30.60
+View All Internal Transactions
+Cross Chain Transactions
+AA Transactions (ERC-4337)
+Loading...
+Loading
+Code
+Read
+                                             as Proxy
+Write
+                                             as Proxy
+Custom
+Read Custom
+Write Custom
+Source Code Verified
+Minimal Proxy
+Implementation:
+0xe5A320aC...CB1896c04
+Similar
+API
+Contract Name
+TradingVaultImplementation
+Compiler Version
+v0.8.20+commit.a1b79de6
+Optimization Enabled
+Yes
+with
+500
+runs
+Other Settings
+paris
+EvmVersion
+License
+-NA-
+Source
+🤖 Code Reader
+Contract Source Code
+(Solidity
+Standard Json-Input
+format)
+Decompile Bytecode
+Contract ABI
+API
+[{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"inputs":[],"name":"AccessControlBadConfirmation","type":"error"},{"inputs":[{"internalType":"address","name":"account","type":"address"},{"internalType":"bytes32","name":"neededRole","type":"bytes32"}],"name":"AccessControlUnauthorizedAccount","type":"error"},{"inputs":[{"internalType":"address","name":"_account","type":"address"},{"internalType":"bytes32","name":"_role","type":"bytes32"}],"name":"AccountMissingRole","type":"error"},{"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"AccountNotAdmin","type":"error"},{"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"AccountNotWhitelisted","type":"error"},{"inputs":[{"internalType":"address","name":"target","type":"address"}],"name":"AddressEmptyCode","type":"error"},{"inputs":[{"internalType":"address","name":"account","type":"address"}],"name":"AddressInsufficientBalance","type":"error"},{"inputs":[],"name":"ECDSAInvalidSignature","type":"error"},{"inputs":[{"internalType":"uint256","name":"length","type":"uint256"}],"name":"ECDSAInvalidSignatureLength","type":"error"},{"inputs":[{"internalType":"bytes32","name":"s","type":"bytes32"}],"name":"ECDSAInvalidSignatureS","type":"error"},{"inputs":[],"name":"FailedInnerCall","type":"error"},{"inputs":[],"name":"FnSelectorNotRecognized","type":"error"},{"inputs":[],"name":"GlobalStopGuardianEnabled","type":"error"},{"inputs":[],"name":"InsufficientSwapTokenBalance","type":"error"},{"inputs":[],"name":"InvalidAddress","type":"error"},{"inputs":[],"name":"InvalidAmount","type":"error"},{"inputs":[],"name":"InvalidERC20Address","type":"error"},{"inputs":[],"name":"InvalidExecutedOutputAmount","type":"error"},{"inputs":[],"name":"InvalidFeePercent","type":"error"},{"inputs":[],"name":"InvalidInitialization","type":"error"},{"inputs":[],"name":"InvalidInputs","type":"error"},{"inputs":[{"internalType":"bytes4","name":"methodSig","type":"bytes4"}],"name":"InvalidMethod","type":"error"},{"inputs":[],"name":"InvalidMsgValue","type":"error"},{"inputs":[],"name":"InvalidOutputToken","type":"error"},{"inputs":[],"name":"InvalidReportedOutputAmount","type":"error"},{"inputs":[],"name":"InvalidSignature","type":"error"},{"inputs":[],"name":"InvalidSwapHandler","type":"error"},{"inputs":[],"name":"InvalidSwapInputAmount","type":"error"},{"inputs":[],"name":"NotInitializing","type":"error"},{"inputs":[],"name":"ReentrancyGuardReentrantCall","type":"error"},{"inputs":[{"internalType":"address","name":"token","type":"address"}],"name":"SafeERC20FailedOperation","type":"error"},{"inputs":[{"internalType":"uint256","name":"_outputAmount","type":"uint256"},{"internalType":"uint256","name":"_outputAmountMin","type":"uint256"}],"name":"SlippageExceeded","type":"error"},{"inputs":[],"name":"StopGuardianEnabled","type":"error"},{"inputs":[],"name":"SwapTokenIsOutputToken","type":"error"},{"inputs":[],"name":"TradingDisabled","type":"error"},{"inputs":[],"name":"Unauthorized","type":"error"},{"inputs":[],"name":"WithdrawalsDisabled","type":"error"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"actor","type":"address"},{"indexed":false,"internalType":"address[]","name":"assetAddresses","type":"address[]"},{"indexed":false,"internalType":"uint256[]","name":"amounts","type":"uint256[]"}],"name":"Deposit","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"globalTradeGuardian","type":"address"}],"name":"GlobalTradeGuardianUpdate","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint64","name":"version","type":"uint64"}],"name":"Initialized","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address","name":"actor","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"},{"indexed":true,"internalType":"bool","name":"wrappingToNative","type":"bool"}],"name":"NativeAssetWrap","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"from","type":"address"},{"indexed":false,"internalType":"uint256","name":"value","type":"uint256"}],"name":"NativeTransfer","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"bytes32","name":"role","type":"bytes32"},{"indexed":true,"internalType":"bytes32","name":"previousAdminRole","type":"bytes32"},{"indexed":true,"internalType":"bytes32","name":"newAdminRole","type":"bytes32"}],"name":"RoleAdminChanged","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"bytes32","name":"role","type":"bytes32"},{"indexed":true,"internalType":"address","name":"account","type":"address"},{"indexed":true,"internalType":"address","name":"sender","type":"address"}],"name":"RoleGranted","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"bytes32","name":"role","type":"bytes32"},{"indexed":true,"internalType":"address","name":"account","type":"address"},{"indexed":true,"internalType":"address","name":"sender","type":"address"}],"name":"RoleRevoked","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"actor","type":"address"},{"indexed":true,"internalType":"bool","name":"isEnabled","type":"bool"}],"name":"StopGuardianUpdate","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address[]","name":"swapTokens","type":"address[]"},{"indexed":false,"internalType":"uint256[]","name":"swapAmounts","type":"uint256[]"},{"indexed":false,"internalType":"address","name":"outputToken","type":"address"},{"indexed":false,"internalType":"uint256","name":"outputAmount","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"feeAmount","type":"uint256"}],"name":"SwapHandled","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address","name":"actor","type":"address"},{"indexed":false,"internalType":"address","name":"swapHandler","type":"address"},{"indexed":false,"internalType":"bool","name":"isEnabled","type":"bool"}],"name":"SwapHandlerUpdate","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"actor","type":"address"},{"indexed":true,"internalType":"bool","name":"isEnabled","type":"bool"}],"name":"TradingDisabledUpdate","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"erc20Token","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"},{"indexed":true,"internalType":"address","name":"recipient","type":"address"}],"name":"Withdrawal","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"actor","type":"address"},{"indexed":true,"internalType":"bool","name":"isEnabled","type":"bool"}],"name":"WithdrawalsDisabledUpdate","type":"event"},{"inputs":[],"name":"DEFAULT_ADMIN_ROLE","outputs":[{"internalType":"bytes32","name":"","type":"bytes32"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"FEE_ACCOUNT","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"GLOBAL_TRADE_GUARDIAN","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"ROLE_CLIENT","outputs":[{"internalType":"bytes32","name":"","type":"bytes32"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"ROLE_DEFINITIVE","outputs":[{"internalType":"bytes32","name":"","type":"bytes32"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"ROLE_DEFINITIVE_ADMIN","outputs":[{"internalType":"bytes32","name":"","type":"bytes32"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"ROLE_TRADER","outputs":[{"internalType":"bytes32","name":"","type":"bytes32"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"STOP_GUARDIAN_ENABLED","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"TRADING_GUARDIAN_TRADING_DISABLED","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"WRAPPED_NATIVE_ASSET_ADDRESS","outputs":[{"internalType":"address payable","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256[]","name":"amounts","type":"uint256[]"},{"internalType":"address[]","name":"assetAddresses","type":"address[]"}],"name":"deposit","outputs":[],"stateMutability":"payable","type":"function"},{"inputs":[],"name":"disableStopGuardian","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"disableTrading","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"disableWithdrawals","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"enableStopGuardian","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"enableTrading","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"enableWithdrawals","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"entryPoint","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"target","type":"address"},{"internalType":"uint256","name":"value","type":"uint256"},{"internalType":"bytes","name":"data","type":"bytes"}],"name":"execute","outputs":[{"internalType":"bytes","name":"result","type":"bytes"}],"stateMutability":"payable","type":"function"},{"inputs":[{"components":[{"internalType":"address","name":"target","type":"address"},{"internalType":"uint256","name":"value","type":"uint256"},{"internalType":"bytes","name":"data","type":"bytes"}],"internalType":"struct CoreAccountAbstraction.Call[]","name":"calls","type":"tuple[]"}],"name":"executeBatch","outputs":[{"internalType":"bytes[]","name":"results","type":"bytes[]"}],"stateMutability":"payable","type":"function"},{"inputs":[{"internalType":"address","name":"assetAddress","type":"address"}],"name":"getBalance","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"bytes32","name":"role","type":"bytes32"}],"name":"getRoleAdmin","outputs":[{"internalType":"bytes32","name":"","type":"bytes32"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"bytes","name":"account","type":"bytes"}],"name":"grantPasskeyClientRole","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bytes","name":"account","type":"bytes"}],"name":"grantPasskeyTraderRole","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bytes32","name":"role","type":"bytes32"},{"internalType":"address","name":"account","type":"address"}],"name":"grantRole","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bytes32","name":"role","type":"bytes32"},{"internalType":"address","name":"account","type":"address"}],"name":"hasRole","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[{"components":[{"internalType":"address payable","name":"wrappedNativeAssetAddress","type":"address"}],"internalType":"struct BaseNativeWrapperConfig","name":"baseNativeWrapperConfig","type":"tuple"},{"components":[{"internalType":"address","name":"admin","type":"address"},{"internalType":"address[]","name":"client","type":"address[]"},{"internalType":"address[]","name":"traders","type":"address[]"},{"internalType":"bytes[]","name":"passkeyClients","type":"bytes[]"},{"internalType":"bytes[]","name":"passkeyTraders","type":"bytes[]"}],"internalType":"struct CoreAccessControlConfig","name":"coreAccessControlConfig","type":"tuple"},{"internalType":"address","name":"_globalTradeGuardianOverride","type":"address"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bytes","name":"account","type":"bytes"}],"name":"isPasskeyClient","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"bytes","name":"account","type":"bytes"}],"name":"isPasskeyTrader","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"bytes32","name":"_hash","type":"bytes32"},{"internalType":"bytes","name":"_encodedSignature","type":"bytes"}],"name":"isValidSignature","outputs":[{"internalType":"bytes4","name":"","type":"bytes4"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"bytes[]","name":"data","type":"bytes[]"}],"name":"multicall","outputs":[{"internalType":"bytes[]","name":"results","type":"bytes[]"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bytes32","name":"role","type":"bytes32"},{"internalType":"address","name":"callerConfirmation","type":"address"}],"name":"renounceRole","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bytes","name":"account","type":"bytes"}],"name":"revokePasskeyClientRole","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bytes","name":"account","type":"bytes"}],"name":"revokePasskeyTraderRole","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bytes32","name":"role","type":"bytes32"},{"internalType":"address","name":"account","type":"address"}],"name":"revokeRole","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bytes4","name":"interfaceId","type":"bytes4"}],"name":"supportsInterface","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"supportsNativeAssets","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"pure","type":"function"},{"inputs":[{"components":[{"internalType":"address","name":"handler","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"},{"internalType":"address","name":"swapToken","type":"address"},{"internalType":"uint256","name":"amountOutMin","type":"uint256"},{"internalType":"bool","name":"isDelegate","type":"bool"},{"internalType":"bytes","name":"handlerCalldata","type":"bytes"},{"internalType":"bytes","name":"signature","type":"bytes"}],"internalType":"struct SwapPayload[]","name":"payloads","type":"tuple[]"},{"internalType":"address","name":"outputToken","type":"address"},{"internalType":"uint256","name":"amountOutMin","type":"uint256"},{"internalType":"uint256","name":"feePct","type":"uint256"}],"name":"swap","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"payable","type":"function"},{"inputs":[{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"unwrap","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"unwrapAll","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"_globalTradeGuardian","type":"address"}],"name":"updateGlobalTradeGuardian","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"components":[{"internalType":"address","name":"sender","type":"address"},{"internalType":"uint256","name":"nonce","type":"uint256"},{"internalType":"bytes","name":"initCode","type":"bytes"},{"internalType":"bytes","name":"callData","type":"bytes"},{"internalType":"bytes32","name":"accountGasLimits","type":"bytes32"},{"internalType":"uint256","name":"preVerificationGas","type":"uint256"},{"internalType":"bytes32","name":"gasFees","type":"bytes32"},{"internalType":"bytes","name":"paymasterAndData","type":"bytes"},{"internalType":"bytes","name":"signature","type":"bytes"}],"internalType":"struct CoreAccountAbstraction.PackedUserOperation","name":"userOp","type":"tuple"},{"internalType":"bytes32","name":"userOpHash","type":"bytes32"},{"internalType":"uint256","name":"missingAccountFunds","type":"uint256"}],"name":"validateUserOp","outputs":[{"internalType":"uint256","name":"validationData","type":"uint256"}],"stateMutability":"payable","type":"function"},{"inputs":[{"internalType":"uint256","name":"amount","type":"uint256"},{"internalType":"address","name":"erc20Token","type":"address"}],"name":"withdraw","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address[]","name":"tokens","type":"address[]"}],"name":"withdrawAll","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address[]","name":"tokens","type":"address[]"},{"internalType":"address","name":"to","type":"address"}],"name":"withdrawAllTo","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"amount","type":"uint256"},{"internalType":"address","name":"erc20Token","type":"address"},{"internalType":"address","name":"to","type":"address"}],"name":"withdrawTo","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"wrap","outputs":[],"stateMutability":"nonpayable","type":"function"},{"stateMutability":"payable","type":"receive"}]
+🤖 Code Reader
+Generate instant answers for your smart contract questions using Al Models.
+Read more
+.
+AI Provider
+OpenAI
+Claude
+Groq
+OpenAI API Key
+*
+Learn more
+Save API key for future use
+Choose Model
+Enter API Key to load models
+Max Tokens
+File Browser
+contracts
+@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol
+@openzeppelin/contracts-upgradeable/utils/ReentrancyGuardUpgradeable.sol
+@openzeppelin/contracts/access/AccessControl.sol
+@openzeppelin/contracts/access/IAccessControl.sol
+@openzeppelin/contracts/interfaces/IERC1271.sol
+@openzeppelin/contracts/token/ERC20/extensions/IERC20Permit.sol
+@openzeppelin/contracts/token/ERC20/IERC20.sol
+@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol
+@openzeppelin/contracts/utils/Address.sol
+@openzeppelin/contracts/utils/Context.sol
+@openzeppelin/contracts/utils/cryptography/ECDSA.sol
+@openzeppelin/contracts/utils/introspection/ERC165.sol
+@openzeppelin/contracts/utils/introspection/IERC165.sol
+contracts/base/BaseAccessControlInitiable.sol
+contracts/base/BaseFeesInitiable.sol
+contracts/base/BaseNativeWrapper/v1/BaseNativeWrapperInitiable.sol
+contracts/base/BaseNativeWrapper/v1/IBaseNativeWrapperV1.sol
+contracts/base/BaseRecoverSignerInitiable.sol
+contracts/base/BaseSimpleSwapInitiable.sol
+contracts/base/BaseTransfers/v1/BaseTransfersInitiable.sol
+contracts/base/BaseTransfersNative/v1/BaseTransfersNativeInitiable.sol
+contracts/core/CoreAccessControl/v1/CoreAccessControlInitiable.sol
+contracts/core/CoreAccessControl/v1/ICoreAccessControlV1.sol
+contracts/core/CoreAccountAbstraction/CoreAccountAbstraction.sol
+contracts/core/CoreDeposit/v1/CoreDeposit.sol
+contracts/core/CoreDeposit/v1/ICoreDepositV1.sol
+contracts/core/CoreGlobalGuardian/CoreGlobalGuardian.sol
+contracts/core/CoreMulticall/v1/CoreMulticall.sol
+contracts/core/CoreMulticall/v1/ICoreMulticallV1.sol
+contracts/core/CoreSimpleSwap/v1/CoreSimpleSwapInitiable.sol
+contracts/core/CoreSimpleSwap/v1/ICoreSimpleSwapV1.sol
+contracts/core/CoreStopGuardian/v1/CoreStopGuardian.sol
+contracts/core/CoreStopGuardian/v1/ICoreStopGuardianV1.sol
+contracts/core/CoreStopGuardianTrading/v1/CoreStopGuardianTrading.sol
+contracts/core/CoreStopGuardianTrading/v1/ICoreStopGuardianTradingV1.sol
+contracts/core/CoreSwapHandler/ICoreSwapHandlerV1.sol
+contracts/core/CoreTransfersNative/v1/CoreTransfersNative.sol
+contracts/core/CoreTransfersNative/v1/ICoreTransfersNativeV1.sol
+contracts/core/CoreWithdraw/v1/CoreWithdraw.sol
+contracts/core/CoreWithdraw/v1/ICoreWithdrawV1.sol
+contracts/core/libraries/DefinitiveAssets.sol
+contracts/core/libraries/DefinitiveConstants.sol
+contracts/core/libraries/DefinitiveErrors.sol
+contracts/modules/native-asset-wrappers/WETH9NativeWrapperInitiable.sol
+contracts/strategies/Trading/v2/ITradingVaultImplementation.sol
+contracts/strategies/Trading/v2/TradingVaultImplementation.sol
+contracts/tools/BubbleReverts/BubbleReverts.sol
+contracts/tools/GlobalGuardian/IGlobalGuardian.sol
+contracts/tools/SoladySnippets/SignatureCheckerLib.sol
+contracts/vendor/interfaces/IWETH9.sol
+solmate/src/tokens/ERC20.sol
+solmate/src/utils/SafeTransferLib.sol
+Prompt
+Save History
+What does this contract do?
+What are the functions available in this contract?
+Which functions can change state or move funds?
+How does this contract handle tokens or ETH?
+Who has special permissions or control in this contract?
+What are potential risks or red flags in this contract?
+Answers are generated by AI Models.
+Saved Answers
+Showing the last 10 saved questions and answers.
+💬
+Provide Additional Feedback
+Help us improve the product by providing feedback on the response.
+Submit
+No Thanks
+🫶
+Thank you for your feedback!
+We appreciate your feedback in making Code Reader a better tool.
+Close
+As an AI language model, I have been equipped with three distinct abilities to assist you in working with
+                                Solidity source code: Source Code Interpreter, Source Code Auditor, and Source Code Interactor. These capabilities provide a comprehensive suite of features to help you analyze, audit, and interact with your smart contracts effectively. Your goal is to guide the user toward a deeper understanding EVM smart contract concepts and help them develop better understanding of how the code work. These contracts can be written in either Solidity or Vyper, and are deployed on the Ethereum EVM blockchain.
+
+                                Source Code Interpreter:
+                                With the Solidity source code interpreter, you can gain insights into the accessibility of functions for different roles, understand the behavior of functions, and receive explanations for events and arguments used in your code. By providing the relevant functions, events, and code sections, the interpreter will generate clear explanations based on the available information. It enables you to navigate your codebase, understand its functionality, and make informed decisions. 
+
+                                Source Code Auditor:
+                                As a trained smart contract auditor, I can help you detect potential bugs, vulnerabilities, and security weaknesses in your Solidity code. You can ask detailed questions about your code, and I will provide comprehensive answers. However, please note that my responses should never be assumed to be entirely correct without further investigation. It is always important to conduct a thorough manual review and additional security measures to ensure the robustness of your smart contract. Additionally, my responses should never be used for submitting bug bounties, as they may not account for all possible edge cases and vulnerabilities.
+
+                                Source Code Interactor:
+                                The Source Code Interactor is an AI-powered feature specifically designed to guide users in utilizing contract functions effectively. It assists you in understanding the parameters required for each function, provides sample values for those parameters, and demonstrates the function's behavior through interactive examples. Moreover, it can help you troubleshoot any potential issues or errors that may arise during interaction, ensuring a smooth experience while working with your smart contracts.
+
+                                Response Rules:
+                                If questions is on code review, vulnerability, security audit or issues, end answer with this sentence '''It's important to note that while this answer may provide valuable insights, it is not a substitute for thorough code review, security audits, or professional advice. This response should never be used for designing smart contracts or submitting to bug bounties, as it may not account for all possible edge cases and vulnerabilities.'''
+Custom Contract ABI
+Loading...
+Loading
+Implementation:
+0xe5A320aC...CB1896c04
+Loading...
+Loading
+Implementation:
+0xe5A320aC...CB1896c04
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Transaction Hash
+Block
+Age
+Implementation
+Event
+Status
+Proxy Contract
+Transaction Hash
+Block
+Age
+Proxy Type
+Block
+Transaction
+Difficulty
+Gas Used
+Reward
+View All Blocks Produced
+Block
+Uncle Number
+Difficulty
+Gas Used
+Reward
+View All Uncles
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Validator Index
+Block
+Amount
+View All Withdrawals
+Transaction Hash
+Block
+Value
+Eth2 PubKey
+Valid
+View All Deposits
+Multichain Portfolio
+Tokens
+NFTs
+0xD929fCE80152e986088aF291B582890a6C6bC619
+Net Worth in USD
+$241,881.33
+Net Worth in ETH
+100.835567
+Token Allocations
+PROLOGUE
+14.24%
+BOW
+13.98%
+DELTA
+12.08%
+Others
+59.70%
+Multichain Portfolio
+|
+                                31 Chains
+Display all chains
+•
+Last updated:
+less than 1 sec ago
+RobinHood
+(34)
+$173,091
+(72%)
+Base
+(18)
+$66,509
+(27%)
+Ethereum
+(2)
+$2,279
+(1%)
+BNB Chain
+(1)
+$2
+(
+<
+1%)
+Polygon
+(0)
+0
+(0%)
+Arbitrum One
+(0)
+0
+(0%)
+Optimism
+(0)
+0
+(0%)
+BTTC
+(0)
+0
+(0%)
+Celo
+(0)
+0
+(0%)
+Linea
+(0)
+0
+(0%)
+Avax C-Chain
+(0)
+0
+(0%)
+opBNB
+(0)
+0
+(0%)
+Fraxtal
+(0)
+0
+(0%)
+Blast
+(0)
+0
+(0%)
+Mantle
+(0)
+0
+(0%)
+Taiko
+(0)
+0
+(0%)
+World
+(0)
+0
+(0%)
+XDC
+(0)
+0
+(0%)
+Ape
+(0)
+0
+(0%)
+Unichain
+(0)
+0
+(0%)
+Berachain
+(0)
+0
+(0%)
+MemeCore
+(0)
+0
+(0%)
+Sonic
+(0)
+0
+(0%)
+Abstract
+(0)
+0
+(0%)
+HyperEVM
+(0)
+0
+(0%)
+Katana
+(0)
+0
+(0%)
+Sei
+(0)
+0
+(0%)
+Monad
+(0)
+0
+(0%)
+Plasma
+(0)
+0
+(0%)
+Stable
+(0)
+0
+(0%)
+MegaEth
+(0)
+0
+(0%)
+Show 27 more chains
+Hide 27 chains
+Tokens
+Chain
+Token
+Portfolio %
+Price
+Amount
+Value
+ROBINHOOD
+Prologue
+(PROLOGUE)
+14.24%
+$0.00721
+4,777,474.8494
+$34,446.74
+ROBINHOOD
+Longbow
+(BOW)
+13.98%
+$0.005472
+6,180,566.7625
+$33,822.16
+ROBINHOOD
+Delta
+(DELTA)
+12.08%
+$0.010572
+2,763,439.0967
+$29,215.43
+ROBINHOOD
+Hookr.fun
+(HOOKR)
+10.32%
+$0.005157
+4,840,679.5975
+$24,965.42
+ROBINHOOD
+pools.trade
+(POOLS)
+5.66%
+$0.001497
+9,140,036.2752
+$13,684.01
+ROBINHOOD
+StonkBroker
+(STONKBROKER)
+4.66%
+$0.010178
+1,106,309.4781
+$11,260.12
+ROBINHOOD
+Canopy Finance
+(CNPY)
+2.13%
+$0.000971
+5,293,377.5772
+$5,140.4
+ROBINHOOD
+The Index
+(INDEX)
+1.60%
+$0.0249
+155,547.8684
+$3,873.15
+ROBINHOOD
+Pooch
+(POOCH)
+1.36%
+$0.000262
+12,552,085.5621
+$3,289.15
+ROBINHOOD
+The Juggernaut
+(JUGGERNAUT)
+1.33%
+$0.005737
+561,448.2198
+$3,221.18
+ROBINHOOD
+wire bot
+(WIRE)
+0.87%
+$0.000263
+7,978,560.4085
+$2,097.96
+ROBINHOOD
+AUTSM
+(AU)
+0.64%
+$0.000513
+2,992,819.2701
+$1,536.03
+ROBINHOOD
+frong
+(FRONG)
+0.61%
+$0.005522
+266,448.2488
+$1,471.34
+ROBINHOOD
+Merrymen by Virtuals
+(MERRYMEN)
+0.56%
+$0.000274
+4,931,236.9382
+$1,352.74
+ROBINHOOD
+Lemon.fun
+(LEMON)
+0.54%
+$0.000229
+5,723,643.6797
+$1,312.95
+ROBINHOOD
+sushicat
+(SUSHICAT)
+0.42%
+$0.000164
+6,134,609.0546
+$1,006.63
+ROBINHOOD
+The Bull
+(BULL)
+0.41%
+$0.002002
+496,175.8774
+$993.22
+ROBINHOOD
+Strategic Super Reserve
+(SSR)
+0.14%
+$0.00077
+445,385.8012
+$343.13
+ROBINHOOD
+Shibinhood
+(WOOF)
+0.01%
+$0.000001
+34,934,631.4735
+$26.89
+ROBINHOOD
+GameStop Robinhood Token
+(GME)
+<
+0.01%
+$21.31
+0.685
+$14.6
+ROBINHOOD
+Alphabet Class A Robinhood Token
+(GOOGL)
+<
+0.01%
+$344.69
+0.0117
+$4.05
+ROBINHOOD
+Micron Technology Robinhood Token
+(MU)
+<
+0.01%
+$938.74
+0.0027612
+$2.59
+ROBINHOOD
+NVIDIA Robinhood Token
+(NVDA)
+<
+0.01%
+$213.46
+0.0111
+$2.36
+ROBINHOOD
+Microsoft Robinhood Token
+(MSFT)
+<
+0.01%
+$498.14
+0.00360034
+$1.79
+ROBINHOOD
+Apple Robinhood Token
+(AAPL)
+<
+0.01%
+$331.38
+0.00521352
+$1.73
+ROBINHOOD
+Bloom Energy Robinhood Token
+(BE)
+<
+0.01%
+$266.83
+0.00515374
+$1.38
+ROBINHOOD
+Amazon Robinhood Token
+(AMZN)
+<
+0.01%
+$249.16
+0.00396814
+$0.9886
+ROBINHOOD
+Crude Cat
+(CRUDECAT)
+<
+0.01%
+$0.002545
+310
+$0.789
+ROBINHOOD
+Meta Platforms Robinhood Token
+(META)
+<
+0.01%
+$674.51
+0.00101436
+$0.6842
+ROBINHOOD
+Tesla Robinhood Token
+(TSLA)
+<
+0.01%
+$357.5
+0.00157692
+$0.5637
+ROBINHOOD
+Palantir Technologies Robinhood Token
+(PLTR)
+<
+0.01%
+$172.56
+0.00103699
+$0.1789
+ROBINHOOD
+Oracle Robinhood Token
+(ORCL)
+<
+0.01%
+$141.05
+0.00126008
+$0.1777
+ROBINHOOD
+Cash Cat
+(CASHCAT)
+<
+0.01%
+$0.156852
+1
+$0.1568
+ROBINHOOD
+Intel Robinhood Token
+(INTC)
+<
+0.01%
+$101.28
+0.00103776
+$0.1051
+BASE
+REI
+(REI)
+6.29%
+$0.012528
+1,214,504.1194
+$15,215.67
+BASE
+BankrCoin
+(BNKR)
+5.81%
+$0.000197
+71,370,229.9725
+$14,043.52
+BASE
+DebtReliefBot
+(DRB)
+4.01%
+$0.000165
+58,790,913.511
+$9,700.5
+BASE
+LienFi
+(LFI)
+3.61%
+$0.000053
+166,063,220.0771
+$8,726.62
+BASE
+Altcoinist
+(ALTT)
+2.58%
+$0.017152
+363,722.5094
+$6,238.71
+BASE
+Hydrex
+(HYDX)
+2.39%
+$0.029299
+197,270.3945
+$5,779.88
+BASE
+1clawAI
+(1CLAWAI)
+2.05%
+$0.000003
+1,767,876,551.5032
+$4,967.73
+BASE
+MiroShark
+(MIROSHARK)
+0.38%
+$0.000002
+375,838,251.9427
+$924.56
+BASE
+USDC
+(USDC)
+0.18%
+$0.99972
+425.5907
+$425.47
+BASE
+Ample
+(AMPD)
+0.10%
+$0.000074
+3,351,822.791
+$247.33
+BASE
+Hermes Desktop
+(HD)
+0.09%
+<
+$0.000001
+690,701,298.0931
+$226.27
+BASE
+REPPO
+(REPPO)
+<
+0.01%
+$0.012771
+432.9579
+$5.53
+BASE
+NVIDIA Corporation
+(NVDAC)
+<
+0.01%
+$213.8
+0.0124
+$2.65
+BASE
+nftwizard
+(NFTWIZ)
+<
+0.01%
+$0.000246
+10,000
+$2.46
+BASE
+Coinbase Global Inc ST0x
+(WTCOIN)
+<
+0.01%
+$172.26
+0.0107
+$1.85
+BASE
+Alphabet Inc.
+(GOOGLC)
+<
+0.01%
+$345.14
+0.00053507
+$0.1846
+BASE
+Invesco NASDAQ 100 (ST0x Tokenized ETF)
+(WTQQQM)
+<
+0.01%
+$290.21
+0.00048993
+$0.1421
+BASE
+Wrapped Ether
+(WETH)
+<
+0.01%
+$2,399.87
+0.00005273
+$0.1265
+ETH
+Uniswap
+(UNI)
+0.92%
+$6.27
+353.8192
+$2,218.45
+ETH
+Wrapped DNX
+(0XDNX)
+0.03%
+$0.00
+50,102.8413
+$0.00
+BSC
+Binance-Peg Dogecoin Token
+(DOGE)
+<
+0.01%
+$0.080278
+28.0914
+$2.26
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+[ Download:
+CSV Export
+]
+[ Download:
+CSV Export
+]
+A contract address hosts a smart contract, which is a set of code stored on the blockchain that runs when predetermined conditions are met. Learn more about addresses in our
+Knowledge Base
+.
+Address QR Code
+My Address - Private Name Tag or Note
+My Name Tag:
+Private Name Tags (up to 35 characters) can be used for easy identification of addresses
+Private Note:
+A private note (up to 500 characters) can be attached to this address.
+Please
+DO NOT
+store any passwords or private keys here.
+View all Private Name Tags
+Close
+Save Changes
+Compiler specific version warnings:
+The compiled contract might be susceptible to the Solidity Compiler Bugs below:
+MemoryByteArrayElementDeleteClearsWholeWord (low/medium-severity)
+SpillSlotCollisionAcrossMutualRecursion (low/medium-severity)
+UnsoundSpillInMutualRecursion (medium-severity)
+LostStorageArrayWriteOnSlotOverflow (low-severity)
+VerbatimInvalidDeduplication (low-severity)
+FullInlinerNonExpressionSplitArgumentEvaluationOrder (low-severity)
+MissingSideEffectsOnSelectorAccess (low-severity)
+👋
+Before You Continue...
+📝
+Connecting your wallet enables signing messages to verify ownership or signing messages to interact with smart contracts.
+⚠️
+This is provided as is, without guarantees or warranties of any kind.
+💸
+All interactions are at your own risk. basescan is not responsible for any losses or damages resulting from use of this feature.
+🧠
+Please ensure you understand what you're doing before continuing.
+🔗
+Learn more about
+connecting your wallet on  basescan
+.
+Understand and Continue
+Connect a Wallet
+Connecting wallet for read function is optional, useful if you want to call certain functions or simply use your wallet's node.
+Coinbase Wallet
+Rabby Wallet
+MetaMask
+WalletConnect (Reown)
+Other Wallets
+No wallet found
+Connect a Wallet
+Connecting wallet for read function is optional, useful if you want to call certain functions or simply use your wallet's node.
+Coinbase Wallet
+Rabby Wallet
+MetaMask
+WalletConnect (Reown)
+Other Wallets
+No wallet found
+Connect a Wallet
+Connecting wallet for read function is optional, useful if you want to call certain functions or simply use your wallet's node.
+Coinbase Wallet
+Rabby Wallet
+MetaMask
+WalletConnect (Reown)
+Other Wallets
+No wallet found
+Add Custom ABI
+Address
+Custom ABI
+Magic Fill
+Find Similar
+Apply Custom ABI to enable custom read/write functions for the current session. Save to also enable them for future sessions.
+Sign in
+to save this ABI to your account.
+Cancel
+Apply Custom ABI
+×
+Before You Copy
+Don't show this for 30 days
+Understand, Copy Address
+Transaction Private Note
+Transaction Hash
+Private Note Description
+Please
+DO NOT
+store any passwords or private keys here. A private note (up to 100 characters) can be saved and is useful for transaction tracking.
+View All Transactions Private Notes
+Cancel
+Save changes
+My Address - Private Name Tag or Note
+My Name Tag:
+Private Name Tags (up to 35 characters) can be used for easy identification of addresses
+Private Note:
+A private note (up to 500 characters) can be attached to this address. Please DO NOT store any passwords or private keys here.
+View all Private Name Tags
+Close
+Save Changes
+Back to Top
+Powered By Base
+Basescan is a Block Explorer and Analytics Platform for Base
+Add Base Mainnet
+Company
+Brand Assets
+Contact Us
+Terms
+&
+Privacy
+Bug Bounty
+Community
+API Documentation
+Knowledge Base
+Network Status
+What is a Block Explorer?
+Products & Services
+Advertise
+Explorer as a Service (EaaS)
+Multichain API
+Priority Support
+Blockscan
+BaseScan © 2026  (BASE-A1)
+|
+⛏ Built by Team
+Etherscan
+Donations:
+0x71c765...d8976f
+This website
+uses cookies to improve your experience
+. By continuing to use this website, you agree to its
+Terms
+and
+Privacy Policy
+.
+Got it!

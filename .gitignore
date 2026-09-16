@@ -3,3 +3,7 @@ __pycache__/
 .env
 .env.*
 docs/analysis/raw/
+docs/analysis/review/
+
+# Claude results are maintained exclusively on the claude branch.
+docs/holder-analysis/

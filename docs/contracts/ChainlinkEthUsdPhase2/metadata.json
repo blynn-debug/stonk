@@ -1,0 +1,14 @@
+{
+  "url": "https://basescan.org/address/0x1e0b2c3896338fbb201c4f0a27c6904801dca06b#code",
+  "fetched_at_utc": "2026-09-16T07:23:40.246793+00:00",
+  "http_status": "200",
+  "error": "",
+  "path": "contracts/ChainlinkEthUsdPhase2/page.html",
+  "sha256": "4cbab510a3a32cb50bd73114516e5fe40236d9736b646f85887e4b853542bbb2",
+  "name": "ChainlinkEthUsdPhase2",
+  "address": "0x1e0b2c3896338fbb201c4f0a27c6904801dca06b",
+  "chain_id": 8453,
+  "source_files": 18,
+  "abi_saved": true,
+  "implementations": []
+}

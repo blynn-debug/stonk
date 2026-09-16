@@ -1,0 +1,5 @@
+eth-abi==6.0.0
+eth-utils==6.0.0
+pycryptodome==3.23.0
+reportlab==5.0.1
+pypdf==6.14.2

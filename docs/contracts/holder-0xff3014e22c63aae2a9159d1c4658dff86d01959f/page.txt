@@ -1,0 +1,748 @@
+Address: 0xff3014e2...86d01959f | BaseScan
+ETH Price:
+$2,398.77
+(-3.37%)
+Gas:
+0.005 Gwei
+/
+Light
+Dim
+Dark
+Auto (System)
+Base Mainnet
+Base Sepolia Testnet
+Sign In
+Home
+Blockchain
+Transactions
+Latest L1→L2 Transactions
+Latest L2→L1 Transactions
+Contract Internal Transactions
+Cross-Chain Transactions
+AA Transactions
+EIP-7702 Authorizations
+Beta
+View Blocks
+View L1 Transaction Batches
+View L1 State Batches
+Top Accounts
+Verified Contracts
+Tokens
+Top Tokens
+(ERC-20)
+Token Transfers
+(ERC-20)
+Token Flow Visualizer
+Beta
+NFTs
+Latest Transfers
+Latest Mints
+Resources
+Charts &  Stats
+Directory
+API
+Multichain API
+API Pricing
+API Documentation
+More
+Developer Tools
+Input Data Encoder
+Beta
+Input Data Decoder
+Unit Converter
+Download Data (CSV Export)
+Account Balance Checker
+Broadcast Transaction
+Bytecode to Opcode
+Smart Contract Tools
+Code Reader
+Verify Contract
+Similar Contract Search
+Contract Diff Checker
+Vyper Online Compiler
+Explore
+Gas Tracker
+Label Cloud
+Domain Name Lookup
+Services
+Token Approvals
+Verified Signature
+Input Data Messages (IDM)
+Advanced Filter
+Explorers
+Base Mainnet
+Base Sepolia Testnet
+Site Settings
+Appearance
+Light
+Dim
+Dark
+Auto (System)
+|
+Sign In
+Contract
+0xfF3014e22c63aAe2a9159D1c4658dFF86D01959F
+Buy
+Sponsored
+etoro
+Explore Crypto
+Start Investing.
+Explore a diverse range of leading cryptoassets and trade them alongside stocks, ETFs, and more.
+Play
+Sponsored
+BC.Game
+The best crypto casino in the world. Get up to 5 BtC in daily bonuses with our free spin wheel.
+Spin Now!
+Join now and instantly enjoy bonus of 1000000 USDC, 760% exclusive deposit bonus.
+Rainbet
+Crypto Casino & Sportsbook
+Play Now!
+Originals, Slots, Sports. Up to 80% back in unmatched rewards. 1.5M in races a month!
+Vavada
+Crypto Casino with Top Slots & Live Games
+Play Now
+Get a 100% bonus up to 1000 USDT + 100 FS and play with crypto
+Gaming
+Sponsored
+BC.Game
+The best crypto casino in the world. 760% exclusive deposits bonus.
+Deposit Now!
+50+ token options, 100% bet insurance for a worry-free gaming experience.
+Stake
+200% Bonus, Instant Withdrawals, 100K Daily Giveaways, BEST VIP Club
+Claim Bonus!
+20+ Cryptos, 3000+ Slots, Daily & Monthly Bonuses, Exclusive Sports Promos - Provably Fair!
+Kings.Game
+500% Bonus, 30% Rakeback, Exclusive VIP Club & Tournaments, Instant Withdrawals
+Win Now!
+Enjoy Crypto & Banking, 8000+ Games & Sports, Missions, Daily, Weekly and Monthly Bonuses, Reload, Annual rewards.
+API
+Token Approvals
+Beta
+Check Previous Balance
+Update Name Tag or Label
+Report/Flag Address
+Overview
+ETH Balance
+0 ETH
+ETH Value
+$0.00
+Token Holdings
+$0.00
+(32 Tokens)
+Could not find any matches!
+ERC-20 Tokens (32)
+ERC20 ***
+25
+$0.00
+ERC-20: Aero...
+(AERO)
+25 AERO
+$0.00
+ERC-20: AI A...
+(AGENT)
+8 AGENT
+$0.00
+ERC-20: Amer...
+(ABTC)
+250 ABTC
+$0.00
+ERC-20: Base...
+(BSTONK)
+99 BSTONK
+$0.00
+ERC-20: Debt...
+($DRB)
+1 $DRB
+$0.00
+ERC-20: Dood...
+(DOODLE)
+1,000 DOODLE
+$0.00
+ERC-20: Elon...
+(EBV)
+50 EBV
+$0.00
+ERC-20: Fede...
+(FOMC)
+5 FOMC
+$0.00
+ERC-20: Gene...
+(
+GENESI...
+)
+1 GENESIS
+$0.00
+ERC-20: glob...
+(SPRS)
+7.5 SPRS
+$0.00
+ERC-20: Happ...
+(
+HAPPYC...
+)
+2 HAPPYCAT
+$0.00
+ERC-20: LORD...
+(
+LORDFO...
+)
+500 LORDFOXY
+$0.00
+ERC-20: Mirr...
+(MIRROR)
+1 MIRROR
+$0.00
+ERC-20: Open...
+(AI)
+1 AI
+$0.00
+ERC-20: Revo...
+(REVO)
+7 REVO
+$0.00
+ERC-20: Soas...
+(SOAS)
+2 SOAS
+$0.00
+ERC-20: Spac...
+(SXC)
+1 SXC
+$0.00
+ERC-20: The ...
+(TBCB)
+50 TBCB
+$0.00
+ERC-20: The ...
+(公牛)
+2 公牛
+$0.00
+ERC-20: The ...
+(
+STONKE...
+)
+1,500 STONKEX
+$0.00
+ERC-20: The ...
+(
+STONKE...
+)
+2,688,645.23099169 STONKEX
+$0.00
+ERC-20: Trum...
+(BOT)
+50 BOT
+$0.00
+ERC-20: Trum...
+(TGC)
+9 TGC
+$0.00
+ERC-20: U.S ...
+(USWS)
+25 USWS
+$0.00
+ERC-20: Unit...
+(USER)
+50 USER
+$0.00
+ERC-20: Unit...
+(USDG)
+15 USDG
+$0.00
+ERC-20: Unit...
+(USMS)
+20 USMS
+$0.00
+ERC-20: Unit...
+(UTOOF)
+2 UTOOF
+$0.00
+ERC-20: Vang...
+(VROF)
+10 VROF
+$0.00
+ERC-20: Vers...
+(VERSA)
+1 VERSA
+$0.00
+ERC-20: WORL...
+(WOFT)
+100 WOFT
+$0.00
+View All Holdings
+More Info
+Private Name Tags
+Add
+Contract
+Creator
+0x64Ab7F7e...84b35fFe5
+|
+5 days ago
+Multichain Info
+$75.65
+(Multichain Portfolio)
+1 address found via
+Blockscan
+Arbiscan
+($76)
+Blockscan (View All)
+Ad
+Transactions
+Internal Transactions
+Token Transfers (ERC-20)
+Other Transactions
+Contract
+Events
+Analytics
+Assets
+Cards
+New
+Advanced Filter
+Latest 3 from a total of  3 transactions
+Download Page Data
+View Completed Txns
+View Pending Txns
+View Failed Txns
+View Outgoing Txns
+View Incoming Txns
+View Contract Creation
+Transaction Hash
+Method
+Block
+From
+To
+0xa332d46eb7e537d630c45a69d69ba7717cf48aab9fe1f9d59cf6a5c3fde899a0
+Execute Transact...
+Execute Transact...
+51127646
+2026-09-10 12:50:39
+5 days ago
+1789044639
+0x64Ab7F7e...84b35fFe5
+IN
+0xfF3014e2...86D01959F
+$0.00
+0 ETH
+0
+.
+00000588
+0
+.
+00911639
+0x241ca536654ae8cb8ad362c5034afcb5eb07f97f4e045dba20a26834c0ab759b
+Execute Transact...
+Execute Transact...
+51127618
+2026-09-10 12:49:43
+5 days ago
+1789044583
+0x7974f23f...3C7394A3b
+IN
+0xfF3014e2...86D01959F
+$0.00
+0 ETH
+0
+.
+0000612
+0
+.
+00987778
+0x8d8aa674b58b496a1012d9b04cf2b37b3766b0483dbfaf2e1528c6b1a03dde13
+Execute Transact...
+Execute Transact...
+51127599
+2026-09-10 12:49:05
+5 days ago
+1789044545
+0x1021AC19...507d74256
+IN
+0xfF3014e2...86D01959F
+$0.00
+0 ETH
+0
+.
+00000875
+0
+.
+01059613
+Latest 1 internal transaction
+Download Page Data
+Parent Transaction Hash
+Block
+From
+To
+0x30aa3c2c44827abb4d966b512006304634a8879baca2dab608d7a45249898d3a
+51127587
+2026-09-10 12:48:41
+5 days ago
+1789044521
+0xAd34595D...564DFBCED
+Contract Creation
+0 ETH
+$0.00
+Cross Chain Transactions
+Cross-Chain Transactions
+Loading...
+Loading
+Custom
+Read Custom
+Write Custom
+Are you the contract creator?
+Verify and Publish
+your contract source code today!
+This contract was created by the contract code at
+0xad34595d990fc06f02424278ee7e707564dfbced
+Note: We also found another
+2962 contracts
+with exact matching bytecodes
+Add Custom ABI
+Switch to Opcodes View
+Decompile Bytecode
+Similar Contracts
+Cross-chain Verify
+0x7faaf10f42000000000000000000000000000000000000000000000000000000006000526014803803604c39602080600460006040515afa61004057600080fd5b6000803660006020515a3660008037f43d6000803e61005e573d6000fd5b3d6000f380456454c4c2eaf2b902e2ca2758120fcfa67c61
+Custom Contract ABI
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Transaction Hash
+Block
+Age
+Implementation
+Event
+Status
+Proxy Contract
+Transaction Hash
+Block
+Age
+Proxy Type
+Block
+Transaction
+Difficulty
+Gas Used
+Reward
+View All Blocks Produced
+Block
+Uncle Number
+Difficulty
+Gas Used
+Reward
+View All Uncles
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Validator Index
+Block
+Amount
+View All Withdrawals
+Transaction Hash
+Block
+Value
+Eth2 PubKey
+Valid
+View All Deposits
+Multichain Portfolio
+Tokens
+NFTs
+0xfF3014e22c63aAe2a9159D1c4658dFF86D01959F
+Net Worth in USD
+$75.65
+Net Worth in ETH
+0.031535
+Token Allocations
+USDC
+100.00%
+Multichain Portfolio
+|
+                                31 Chains
+Display all chains
+•
+Last updated:
+less than 1 sec ago
+Arbitrum One
+(1)
+$76
+(100%)
+Ethereum
+(0)
+0
+(0%)
+BNB Chain
+(0)
+0
+(0%)
+Polygon
+(0)
+0
+(0%)
+Optimism
+(0)
+0
+(0%)
+Base
+(0)
+0
+(0%)
+BTTC
+(0)
+0
+(0%)
+Celo
+(0)
+0
+(0%)
+Linea
+(0)
+0
+(0%)
+Avax C-Chain
+(0)
+0
+(0%)
+opBNB
+(0)
+0
+(0%)
+Fraxtal
+(0)
+0
+(0%)
+Blast
+(0)
+0
+(0%)
+Mantle
+(0)
+0
+(0%)
+Taiko
+(0)
+0
+(0%)
+World
+(0)
+0
+(0%)
+XDC
+(0)
+0
+(0%)
+Ape
+(0)
+0
+(0%)
+Unichain
+(0)
+0
+(0%)
+Berachain
+(0)
+0
+(0%)
+MemeCore
+(0)
+0
+(0%)
+Sonic
+(0)
+0
+(0%)
+Abstract
+(0)
+0
+(0%)
+HyperEVM
+(0)
+0
+(0%)
+Katana
+(0)
+0
+(0%)
+Sei
+(0)
+0
+(0%)
+Monad
+(0)
+0
+(0%)
+Plasma
+(0)
+0
+(0%)
+Stable
+(0)
+0
+(0%)
+MegaEth
+(0)
+0
+(0%)
+RobinHood
+(0)
+0
+(0%)
+Show 30 more chains
+Hide 30 chains
+Tokens
+Chain
+Token
+Portfolio %
+Price
+Amount
+Value
+ARB
+USD Coin
+(USDC)
+100.00%
+$0.999707
+75.668
+$75.65
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+[ Download:
+CSV Export
+]
+[ Download:
+CSV Export
+]
+A contract address hosts a smart contract, which is a set of code stored on the blockchain that runs when predetermined conditions are met. Learn more about addresses in our
+Knowledge Base
+.
+Address QR Code
+My Address - Private Name Tag or Note
+My Name Tag:
+Private Name Tags (up to 35 characters) can be used for easy identification of addresses
+Private Note:
+A private note (up to 500 characters) can be attached to this address.
+Please
+DO NOT
+store any passwords or private keys here.
+View all Private Name Tags
+Close
+Save Changes
+👋
+Before You Continue...
+📝
+Connecting your wallet enables signing messages to verify ownership or signing messages to interact with smart contracts.
+⚠️
+This is provided as is, without guarantees or warranties of any kind.
+💸
+All interactions are at your own risk. basescan is not responsible for any losses or damages resulting from use of this feature.
+🧠
+Please ensure you understand what you're doing before continuing.
+🔗
+Learn more about
+connecting your wallet on  basescan
+.
+Understand and Continue
+Connect a Wallet
+Connecting wallet for read function is optional, useful if you want to call certain functions or simply use your wallet's node.
+Coinbase Wallet
+Rabby Wallet
+MetaMask
+WalletConnect (Reown)
+Other Wallets
+No wallet found
+Connect a Wallet
+Connecting wallet for read function is optional, useful if you want to call certain functions or simply use your wallet's node.
+Coinbase Wallet
+Rabby Wallet
+MetaMask
+WalletConnect (Reown)
+Other Wallets
+No wallet found
+Connect a Wallet
+Connecting wallet for read function is optional, useful if you want to call certain functions or simply use your wallet's node.
+Coinbase Wallet
+Rabby Wallet
+MetaMask
+WalletConnect (Reown)
+Other Wallets
+No wallet found
+Add Custom ABI
+Address
+Custom ABI
+Magic Fill
+Find Similar
+Apply Custom ABI to enable custom read/write functions for the current session. Save to also enable them for future sessions.
+Sign in
+to save this ABI to your account.
+Cancel
+Apply Custom ABI
+×
+Before You Copy
+Don't show this for 30 days
+Understand, Copy Address
+Transaction Private Note
+Transaction Hash
+Private Note Description
+Please
+DO NOT
+store any passwords or private keys here. A private note (up to 100 characters) can be saved and is useful for transaction tracking.
+View All Transactions Private Notes
+Cancel
+Save changes
+My Address - Private Name Tag or Note
+My Name Tag:
+Private Name Tags (up to 35 characters) can be used for easy identification of addresses
+Private Note:
+A private note (up to 500 characters) can be attached to this address. Please DO NOT store any passwords or private keys here.
+View all Private Name Tags
+Close
+Save Changes
+Back to Top
+Powered By Base
+Basescan is a Block Explorer and Analytics Platform for Base
+Add Base Mainnet
+Company
+Brand Assets
+Contact Us
+Terms
+&
+Privacy
+Bug Bounty
+Community
+API Documentation
+Knowledge Base
+Network Status
+What is a Block Explorer?
+Products & Services
+Advertise
+Explorer as a Service (EaaS)
+Multichain API
+Priority Support
+Blockscan
+BaseScan © 2026  (BASE-A1)
+|
+⛏ Built by Team
+Etherscan
+Donations:
+0x71c765...d8976f
+This website
+uses cookies to improve your experience
+. By continuing to use this website, you agree to its
+Terms
+and
+Privacy Policy
+.
+Got it!

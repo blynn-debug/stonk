@@ -1,5 +1,7 @@
 # Stonks 문서 아카이브
 
+최종 상세 분석: **[Codex PDF 보고서](analysis/STONKEX_Contract_Holder_Analysis_Codex.pdf)** · [상위 100 홀더·평단가 및 재현 자료](analysis/README.md).
+
 수집일: 2026-09-16. 문서와 수집 도구를 모두 이 `docs` 디렉토리에 보관한다.
 
 **응답 코드를 이용한 실제 조회:** [stonk_response.txt 분석 및 API·온체인 조회 결과](response-analysis/README.md). 사용자의 의도에 맞춰 응답에 참조된 JavaScript를 추적하고 Stats의 API 4개와 풀·토큰 읽기 호출을 실행했다.
