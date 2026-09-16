@@ -19,6 +19,18 @@
   "sha256": "a05c2b1fcf4c7e21ba27ab99239219a6860ba8cb60c9c456c067c20286db69e7",
   "bytes": 20596
  },
+ "README.md": {
+  "sha256": "aa7c830f082e88ea740ed39146d3a60dbba7c466bd579d2a8edbf099f873a1a0",
+  "bytes": 19059
+ },
+ "report.html": {
+  "sha256": "af301100472264c56fcddccdd95dd4bb38415b027d978bd60198389e454c9be1",
+  "bytes": 62361
+ },
+ "STONKEX-onchain-analysis-2026-09-16.pdf": {
+  "sha256": "cd2cef92374003edda3fc8ad705a604e52e1330f65dc9c65bdc1d24dea0f7c23",
+  "bytes": 759002
+ },
  "top100.csv": {
   "sha256": "165d664dd1753773959739bd4b95b018cc354146f70d8747c5be036d233d7609",
   "bytes": 13851
