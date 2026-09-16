@@ -1,0 +1,198 @@
+How it works — Stonks Exchange
+B20 Live
+reading chain…
+Stonks
+.exchange
+Board
+Stocks
+Stats
+KOLs
+····
+Reference
+How it works
+Stonks Exchange is a launchpad whose quote asset is a share, not a coin.
+The launch
+01 — Deploy
+A fixed-supply ERC-20 is deployed: one billion tokens, 18 decimals, no mint, no pause, no blacklist, no owner. Deliberately the opposite of the equity it trades against — the quote side is issuer-controlled by design, the coin side is ungoverned by construction.
+02 — Open
+The whole supply is placed as ONE single-sided Uniswap V3 position on the 1% tier, spanning from the launch tick to the edge of the range. The opening tick is derived from the stock 's
+Chainlink price at that moment
+, targeting the same ~$4,000 opening cap for every coin — which is what makes two coins quoted in different stocks comparable at all. The pool opens holding
+100% coin and 0% stock
+. Buyers walk the price up as they buy — real price discovery, no bonding curve.
+03 — Lock
+The LP position NFT goes straight to a fee locker whose code has no
+decreaseLiquidity
+, no
+burn
+, no NFT transfer and no approval path, and whose upgrade function reverts unconditionally for everyone — the owner included. The principal cannot leave. Only swap fees can ever be collected.
+Fees on every trade
+Each 1% swap fee splits two ways:
+0.7% to the creator
+and 0.3% to the platform. Anyone can crank collection permissionlessly. Creators choose where their share lands — at launch, or any time after — without ever handing over control of the coin. The platform 's share funds a
+$STONKEX buyback-and-burn
+: 80% of it buys $STONKEX and destroys it, 20% is operator revenue.
+Launch before the market
+Because launch liquidity is entirely coin, a coin can be launched against an equity that has no circulating supply and no pool of its own. Most of Base 's equities are still at zero supply — see the
+stocks page
+.
+FOMO airdrops
+A launch can hand a slice of its supply —
+1% to 10%
+— to the top traders of the
+FOMO leaderboard
+, chosen right in the launch form: the top 50, 25, 10, or a hand-picked set, split equally.
+The supply is
+bought from the coin 's own pool
+by the dev buy, not minted. Every airdropped token is one that first deepened the pool, so the “100% in the pool” guarantee holds — nothing is quietly set aside for insiders, and the airdrop is real spend, not dilution.
+What each recipient does next is graded
+from the chain, not by us
+: sold within three days is red, held three days orange, held a week green, and a wallet that buys more earns a diamond. The record is algorithmic — nobody, us included, can edit it — and the recipients plus the list version are recorded on-chain per batch, so a batch that pays wallets off the list is visible as exactly that.
+Coins that complete an airdrop wear a
+airdrop
+tag on the board; the traders build a public hold-record on the leaderboard. Real supporters get rewarded, dumpers get flagged.
+The contracts
+StonkLauncher2
+upgrades frozen
+Deploys the token, opens its Uniswap V3 pool at a price derived from the stock’s own Chainlink feed in the launch transaction, mints the whole supply as one single-sided position, and hands the LP NFT to the locker. Which locker it hands to is fixed at deployment — there is no setter for it. A dev buy can be funded in the stock, or in plain ETH routed through an allowlisted aggregator.
+0x4714f6EC81639Ca59EEBE634490a4d8671DCe7B4
+StonkFeeLocker2
+no withdraw path
+Holds every launch’s LP NFT forever. Its only position-touching calls are collect (fees) and increaseLiquidity (additive). No decreaseLiquidity, no burn, no NFT transfer, no approval — and any upgrade attempt reverts, for everyone.
+0x71D1D363176723f85d98B8B430DF33cde89f0A7f
+StonkQuoteRegistry2
+Which assets a token may be paired with, and the opening price for each — kept honest by Chainlink. Every launch re-reads the stock’s feed and re-anchors the opening tick when the market has moved more than ~4%; if the feed is stale or down, the last anchor carries the launch instead of blocking it. A stock listed by Base later is added here — no redeploy, and this site picks it up on its own.
+0x4db9F13325A83662cf992184bc070755a212e95B
+StonkTradeRouter3
+Buys and sells against a token’s own pool, with a slippage floor and a deadline on every call. ETH in or out converts through an owner-allowlisted aggregator (0x, Uniswap, Aerodrome) — wherever the stock’s liquidity ends up living, the route follows it, and a sell to ETH converts 100% of the proceeds with zero stock left as dust. Custodies nothing between transactions.
+0x01F178473DcaC0CE4b2B2111BecFB074b586dd12
+StonkQuoter
+Simulates the exact swap the router will perform and reverts with the answer, so the amount you are shown is the amount you get.
+0x2826DF040b68F528f5DEF00A5727e14691B755b4
+StonkDisperse
+ownerless
+The KOL-airdrop batch pusher: sends a slice of supply to many wallets in one transaction, straight from the sender, keeping nothing. No owner, no fees, no custody — and the event it emits names which FOMO list version a batch paid, so an indexer can verify the recipients match it.
+0x3e3F3A9f15614FA40244219F025C88602db58e1c
+StonkFeeSplitter
+buyback & burn
+Where the platform’s 0.3% cut lands. A keeper takes 20% as operator revenue and spends the other 80% buying $STONKEX on the market and burning it — a continuous buyback-and-burn funded by every coin’s trades. Launchpad coins it receives are held, never sold. See the burn dashboard for the running total.
+0xfBC9eE130f1CFeeb192b18CF1202865d757FA680
+What the operator can and cannot do
+The owner can list stocks and their price feeds, override an opening anchor, and — each behind a
+24-hour announced on-chain delay
+— change the fee split within hard caps that always leave the creator at least 20%, or reassign an abandoned token 's creator. The owner
+cannot
+touch any LP position or locked liquidity, upgrade either contract, mint or pause a launched token, or change which locker receives a launch. Those are absent from the code, not promised.
+Why stock splits are safe here
+This is the question that decides whether the whole idea works. Base represents a corporate action — a split, a reinvested dividend — by moving a B20 Asset 's
+multiplier
+. If that were a rebase, a Uniswap V3 pool holding the equity would silently drift out of step with its own accounting, and every launch would need a wrapper token.
+It is not a rebase. Under ERC-8056 the multiplier is cosmetic: it rescales the balance a holder is
+shown
+without minting, transferring, or rewriting any raw balance, and B20 tells integrators to treat raw amounts as canonical. The ERC-20 surface —
+balanceOf
+,
+transfer
+,
+totalSupply
+— is non-rebasing.
+So a 2:1 split doubles the share count on your screen and moves nothing in the pool: same raw reserves, same price, same liquidity, same swap output. That is asserted directly in the test suite, by executing a real split against a real pool.
+Stonks
+.exchange
+The home of memestocks on Base. Coins priced in tokenized equities, liquidity locked forever on Uniswap V3, fees routed back into
+$STONKEX
+.
+Live on
+Base
+· chain
+8453
+········
+Protocol
+The board
+Stocks
+Launch a coin
+My coins
+Stats & burn
+Learn
+How it works
+KOL airdrops
+Launch by tweet
+$STONKEX
+Network
+$STONKEX token
+↗
+Launcher contract
+↗
+Fee locker
+↗
+Base
+↗
+Uniswap V3
+↗
+$STONKEX
+0x5ab000ff9B9FfE0349CE5ffA5fD86f217C3680F5
+— the only official address.
+Not investment advice. Launched coins are unaudited memecoins, not securities and not claims on any company. Coins are priced in tokenized equities; liquidity is locked forever on Uniswap V3.
+thestonks.exchange ·
+2026
+Board
+Stocks
+Launch
+Stats
+KOLs
+------------------------
+Stats — Stonks Exchange
+B20 Live
+reading chain…
+Stonks
+.exchange
+Board
+Stocks
+Stats
+KOLs
+····
+reading the chain
+▌
+Stonks
+.exchange
+The home of memestocks on Base. Coins priced in tokenized equities, liquidity locked forever on Uniswap V3, fees routed back into
+$STONKEX
+.
+Live on
+Base
+· chain
+8453
+········
+Protocol
+The board
+Stocks
+Launch a coin
+My coins
+Stats & burn
+Learn
+How it works
+KOL airdrops
+Launch by tweet
+$STONKEX
+Network
+$STONKEX token
+↗
+Launcher contract
+↗
+Fee locker
+↗
+Base
+↗
+Uniswap V3
+↗
+$STONKEX
+0x5ab000ff9B9FfE0349CE5ffA5fD86f217C3680F5
+— the only official address.
+Not investment advice. Launched coins are unaudited memecoins, not securities and not claims on any company. Coins are priced in tokenized equities; liquidity is locked forever on Uniswap V3.
+thestonks.exchange ·
+2026
+Board
+Stocks
+Launch
+Stats
+KOLs

@@ -1,0 +1,14 @@
+{
+  "url": "https://basescan.org/address/0x7692AcC1CDd771D09EbCae3663e1843b2911BEC7#code",
+  "fetched_at_utc": "2026-09-16T06:55:18.912231+00:00",
+  "http_status": "200",
+  "error": "",
+  "path": "contracts/StonkexPool/page.html",
+  "sha256": "6d3eb1486d826f6c9d25d8718d40533885c6925906a7ccd41f46611aded50848",
+  "name": "StonkexPool",
+  "address": "0x7692AcC1CDd771D09EbCae3663e1843b2911BEC7",
+  "chain_id": 8453,
+  "source_files": 31,
+  "abi_saved": true,
+  "implementations": []
+}

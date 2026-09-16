@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Age: 0
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/html; charset=utf-8
+Date: Wed, 16 Sep 2026 06:47:13 GMT
+Link: </_next/static/immutable/media/23b7a97ae3b5c134-s.p.0fcfx2a-jndc5.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/media/99e609270109b47d-s.p.1dgcou5jor5q_.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/media/de161955856a921d-s.p.3dojvicm65v_0.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/media/effe91970fc4db64-s.p.28xcb7557rbh2.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </img/float/bull.png>; rel=preload; as="image", </img/float/chart.png>; rel=preload; as="image", </img/float/base.png>; rel=preload; as="image", </img/fomo.png>; rel=preload; as="image"
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+X-Matched-Path: /stats
+X-Powered-By: Next.js
+X-Vercel-Cache: MISS
+X-Vercel-Id: icn1::iad1::wp86m-1789541232491-8cd2444b4f42
+Transfer-Encoding: chunked
+

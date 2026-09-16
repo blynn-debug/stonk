@@ -1,0 +1,162 @@
+[
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/02piyvealyst7.js",
+    "fetched_at_utc": "2026-09-16T06:53:17.814721+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/02piyvealyst7.js",
+    "sha256": "1b3335a48b453569a4004c764ebe7f0d8c6d2e68425fb4bfb9e3630f2f31fbae"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/04d57jdwi8eps.js",
+    "fetched_at_utc": "2026-09-16T06:53:17.811085+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/04d57jdwi8eps.js",
+    "sha256": "9371012bbfd868e97e3fa55d0880179413be72137e66851a3b55799510179690"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/0c0hxoamwjsbw.js",
+    "fetched_at_utc": "2026-09-16T06:53:17.817026+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/0c0hxoamwjsbw.js",
+    "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/0s_bxb3lf85_h.js",
+    "fetched_at_utc": "2026-09-16T06:53:17.814545+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/0s_bxb3lf85_h.js",
+    "sha256": "fa45e19c3d38741ef884a4c43de067766f18c93d08259d16a238ec98f506e729"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/0uy7lmhz6i5y0.js",
+    "fetched_at_utc": "2026-09-16T06:53:17.819431+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/0uy7lmhz6i5y0.js",
+    "sha256": "cd7a2e935ba111a53240ad3d1109d7ce57352171803ff06970c765d557536581"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/10_kynjj9mrk1.js",
+    "fetched_at_utc": "2026-09-16T06:53:17.819068+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/10_kynjj9mrk1.js",
+    "sha256": "a018910e55bda913ba33c26625dbbef1be3fb5658615459925e640936fdadd1d"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/19jrccg24b6zq.js",
+    "fetched_at_utc": "2026-09-16T06:53:17.948888+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/19jrccg24b6zq.js",
+    "sha256": "1c8c90d6615a0a50c01038badeaa7d706aaf3630ab4b99a6a204ac389bb35ec4"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/1d-4198---a1l.js",
+    "fetched_at_utc": "2026-09-16T06:53:17.996799+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/1d-4198---a1l.js",
+    "sha256": "57e1e4ccd1a9b834e827b0a57db2c7eee810ce1bcfcd267f0805fc46c7f5b78d"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/1fuov29uc_h_y.js",
+    "fetched_at_utc": "2026-09-16T06:53:17.901913+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/1fuov29uc_h_y.js",
+    "sha256": "ea4742e3a945718fd1ffa21a7c6829bc5c094a8d8cb73675fb233b98b30277b8"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/1pij3ctpmjoq3.js",
+    "fetched_at_utc": "2026-09-16T06:53:17.911073+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/1pij3ctpmjoq3.js",
+    "sha256": "867bc3c7c325a62b43b7ba7611a8f7a7658f54772c02ce416d9d53ba26bb9243"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/1pz4zgu4j2xka.js",
+    "fetched_at_utc": "2026-09-16T06:53:17.922137+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/1pz4zgu4j2xka.js",
+    "sha256": "806867532d7a688284e309f088ee5d525f1fd0a2a1c07a20254f298bf9399ce9"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/27iey6c9ps30r.js",
+    "fetched_at_utc": "2026-09-16T06:53:18.097309+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/27iey6c9ps30r.js",
+    "sha256": "9b484f2cb73ef7633813a1fea1fd5eb46476b44c0162994e6dea89af6a563728"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/2uxk_0htuz69u.js",
+    "fetched_at_utc": "2026-09-16T06:53:17.989305+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/2uxk_0htuz69u.js",
+    "sha256": "f7491d227babaea0cde75cb2f5c968903e0235d27585a260255552cc6f854ca7"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/32m4_m8dr6th1.js",
+    "fetched_at_utc": "2026-09-16T06:53:17.993679+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/32m4_m8dr6th1.js",
+    "sha256": "59eb16e3518324cd467f678278a48fd212d744b25ac7dba4b944d88f15c3f800"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/35q7g4fdvyi9m.js",
+    "fetched_at_utc": "2026-09-16T06:53:18.013658+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/35q7g4fdvyi9m.js",
+    "sha256": "c9f06767236218ce5db83ff35db7f4f20746c763844282abb6a5f9e9d67b3dd1"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/3hkl7yb4jo0x7.js",
+    "fetched_at_utc": "2026-09-16T06:53:18.028101+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/3hkl7yb4jo0x7.js",
+    "sha256": "4d48d1aeb3bd9273b8f62772116c576ea3feb4a174e1c7d17c4d13cec80e34e7"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/3oghni4mgy6-n.js",
+    "fetched_at_utc": "2026-09-16T06:53:18.069618+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/3oghni4mgy6-n.js",
+    "sha256": "8ebc24761465f94d5556ad5317aa78d5d81973ac27b6415d9aba2c95f06c5b93"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/3v1lffx_p7-_l.js",
+    "fetched_at_utc": "2026-09-16T06:53:18.069478+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/3v1lffx_p7-_l.js",
+    "sha256": "6182df965ec437a36c304f9660b77856621171620e68debb51f3907072e39cae"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/3yn0mar5z4wmt.js",
+    "fetched_at_utc": "2026-09-16T06:53:18.095783+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/3yn0mar5z4wmt.js",
+    "sha256": "65d09c98e96fbb3307e7e9bdd7f2aa92ba47ffe0cb23314405d17c16084082f8"
+  },
+  {
+    "url": "https://www.thestonks.exchange/_next/static/immutable/chunks/turbopack-1s13aej1n9w0z.js",
+    "fetched_at_utc": "2026-09-16T06:53:18.098071+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/scripts/turbopack-1s13aej1n9w0z.js",
+    "sha256": "7bd8c8918306857d0e6c0c5ebc613153785687b96afef5f4640566442a4761a5"
+  }
+]

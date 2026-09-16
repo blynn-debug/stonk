@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Age: 8765
+Cache-Control: public,max-age=31536000,immutable
+Content-Disposition: inline; filename="3yn0mar5z4wmt.js"
+Content-Length: 229616
+Content-Type: application/javascript; charset=utf-8
+Date: Wed, 16 Sep 2026 06:53:17 GMT
+Etag: "_next/static/immutable/chunks/3yn0mar5z4wmt.js"
+Last-Modified: Wed, 16 Sep 2026 04:27:12 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+X-Matched-Path: /_next/static/immutable/chunks/3yn0mar5z4wmt.js
+X-Vercel-Cache: HIT
+X-Vercel-Id: icn1::lngl4-1789541597974-676b8137596b
+

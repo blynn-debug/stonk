@@ -1,0 +1,14 @@
+{
+  "url": "https://basescan.org/address/0x01F178473DcaC0CE4b2B2111BecFB074b586dd12#code",
+  "fetched_at_utc": "2026-09-16T06:47:16.882108+00:00",
+  "http_status": "200",
+  "error": "",
+  "path": "contracts/StonkTradeRouter3/page.html",
+  "sha256": "dc774afb7c6048002529f3968b99c638adb8df0c8b6ba22392eb28e78c15999c",
+  "name": "StonkTradeRouter3",
+  "address": "0x01F178473DcaC0CE4b2B2111BecFB074b586dd12",
+  "chain_id": 8453,
+  "source_files": 15,
+  "abi_saved": true,
+  "implementations": []
+}

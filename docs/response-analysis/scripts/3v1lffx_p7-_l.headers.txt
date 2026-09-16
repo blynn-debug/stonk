@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Age: 888
+Cache-Control: public,max-age=31536000,immutable
+Content-Disposition: inline; filename="3v1lffx_p7-_l.js"
+Content-Length: 5364
+Content-Type: application/javascript; charset=utf-8
+Date: Wed, 16 Sep 2026 06:53:17 GMT
+Etag: "_next/static/immutable/chunks/3v1lffx_p7-_l.js"
+Last-Modified: Wed, 16 Sep 2026 06:38:28 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+X-Matched-Path: /_next/static/immutable/chunks/3v1lffx_p7-_l.js
+X-Vercel-Cache: HIT
+X-Vercel-Id: icn1::d6wfl-1789541597956-01e8399af35e
+

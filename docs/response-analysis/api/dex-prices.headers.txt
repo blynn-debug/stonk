@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Age: 0
+Cache-Control: public, max-age=30
+Content-Type: application/json
+Date: Wed, 16 Sep 2026 06:53:52 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+X-Matched-Path: /api/dex-prices
+X-Vercel-Cache: MISS
+X-Vercel-Id: icn1::iad1::hr54l-1789541632423-0ce8f5f28b1d
+Transfer-Encoding: chunked
+

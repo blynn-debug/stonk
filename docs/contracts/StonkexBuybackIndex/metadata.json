@@ -1,0 +1,16 @@
+{
+  "url": "https://basescan.org/address/0x44b5c100513e6f625037c039300c5bc72b73dcbd#code",
+  "fetched_at_utc": "2026-09-16T06:55:18.356154+00:00",
+  "http_status": "200",
+  "error": "",
+  "path": "contracts/StonkexBuybackIndex/page.html",
+  "sha256": "c875be2c631798604daf11d26ae6af2a73df76e971669283c7945160d8443772",
+  "name": "StonkexBuybackIndex",
+  "address": "0x44b5c100513e6f625037c039300c5bc72b73dcbd",
+  "chain_id": 8453,
+  "source_files": 2,
+  "abi_saved": true,
+  "implementations": [
+    "0x439a53ca03b2761ea036173e93cfba3b25ffa339"
+  ]
+}

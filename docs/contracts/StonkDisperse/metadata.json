@@ -1,0 +1,14 @@
+{
+  "url": "https://basescan.org/address/0x3e3F3A9f15614FA40244219F025C88602db58e1c#code",
+  "fetched_at_utc": "2026-09-16T06:47:16.572742+00:00",
+  "http_status": "200",
+  "error": "",
+  "path": "contracts/StonkDisperse/page.html",
+  "sha256": "0ac93f29b57201c5592d77dab32ffad245a42e3762f253773f411dc191ad27bc",
+  "name": "StonkDisperse",
+  "address": "0x3e3F3A9f15614FA40244219F025C88602db58e1c",
+  "chain_id": 8453,
+  "source_files": 9,
+  "abi_saved": true,
+  "implementations": []
+}

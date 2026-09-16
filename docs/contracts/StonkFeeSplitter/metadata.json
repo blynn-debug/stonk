@@ -1,0 +1,14 @@
+{
+  "url": "https://basescan.org/address/0xfBC9eE130f1CFeeb192b18CF1202865d757FA680#code",
+  "fetched_at_utc": "2026-09-16T06:47:17.359861+00:00",
+  "http_status": "200",
+  "error": "",
+  "path": "contracts/StonkFeeSplitter/page.html",
+  "sha256": "7ca418993cdd621f2e2c87f2877aad095da4a6bf623b7c1d4deff69fbfbec9b8",
+  "name": "StonkFeeSplitter",
+  "address": "0xfBC9eE130f1CFeeb192b18CF1202865d757FA680",
+  "chain_id": 8453,
+  "source_files": 15,
+  "abi_saved": true,
+  "implementations": []
+}

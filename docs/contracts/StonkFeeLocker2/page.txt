@@ -1,0 +1,1198 @@
+Address: 0x71D1D363...de89f0A7f | BaseScan
+ETH Price:
+$2,395.75
+(-3.71%)
+Gas:
+0.005 Gwei
+/
+Light
+Dim
+Dark
+Auto (System)
+Base Mainnet
+Base Sepolia Testnet
+Sign In
+Home
+Blockchain
+Transactions
+Latest L1→L2 Transactions
+Latest L2→L1 Transactions
+Contract Internal Transactions
+Cross-Chain Transactions
+AA Transactions
+EIP-7702 Authorizations
+Beta
+View Blocks
+View L1 Transaction Batches
+View L1 State Batches
+Top Accounts
+Verified Contracts
+Tokens
+Top Tokens
+(ERC-20)
+Token Transfers
+(ERC-20)
+Token Flow Visualizer
+Beta
+NFTs
+Latest Transfers
+Latest Mints
+Resources
+Charts &  Stats
+Directory
+API
+Multichain API
+API Pricing
+API Documentation
+More
+Developer Tools
+Input Data Encoder
+Beta
+Input Data Decoder
+Unit Converter
+Download Data (CSV Export)
+Account Balance Checker
+Broadcast Transaction
+Bytecode to Opcode
+Smart Contract Tools
+Code Reader
+Verify Contract
+Similar Contract Search
+Contract Diff Checker
+Vyper Online Compiler
+Explore
+Gas Tracker
+Label Cloud
+Domain Name Lookup
+Services
+Token Approvals
+Verified Signature
+Input Data Messages (IDM)
+Advanced Filter
+Explorers
+Base Mainnet
+Base Sepolia Testnet
+Site Settings
+Appearance
+Light
+Dim
+Dark
+Auto (System)
+|
+Sign In
+Contract
+0x71D1D363176723f85d98B8B430DF33cde89f0A7f
+Buy
+Sponsored
+etoro
+Explore Crypto
+Start Investing.
+Explore a diverse range of leading cryptoassets and trade them alongside stocks, ETFs, and more.
+Play
+Sponsored
+BC.Game
+The best crypto casino in the world. Get up to 5 BtC in daily bonuses with our free spin wheel.
+Spin Now!
+Join now and instantly enjoy bonus of 1000000 USDC, 760% exclusive deposit bonus.
+Rainbet
+Crypto Casino & Sportsbook
+Play Now!
+Originals, Slots, Sports. Up to 80% back in unmatched rewards. 1.5M in races a month!
+Vavada
+Crypto Casino with Top Slots & Live Games
+Play Now
+Get a 100% bonus up to 1000 USDT + 100 FS and play with crypto
+Gaming
+Sponsored
+BC.Game
+The best crypto casino in the world. 760% exclusive deposits bonus.
+Deposit Now!
+50+ token options, 100% bet insurance for a worry-free gaming experience.
+Stake
+200% Bonus, Instant Withdrawals, 100K Daily Giveaways, BEST VIP Club
+Claim Bonus!
+20+ Cryptos, 3000+ Slots, Daily & Monthly Bonuses, Exclusive Sports Promos - Provably Fair!
+Kings.Game
+500% Bonus, 30% Rakeback, Exclusive VIP Club & Tournaments, Instant Withdrawals
+Win Now!
+Enjoy Crypto & Banking, 8000+ Games & Sports, Missions, Daily, Weekly and Monthly Bonuses, Reload, Annual rewards.
+Source Code
+Source Code (Proxy)
+Implementation:
+0x6C9C9fd8...dF0325273
+API
+Token Approvals
+Beta
+Check Previous Balance
+Update Name Tag or Label
+Report/Flag Address
+Overview
+ETH Balance
+0 ETH
+ETH Value
+$0.00
+Token Holdings
+$0.00
+(10 Tokens)
+Could not find any matches!
+ERC-20 Tokens (9)
+ERC-20: Base...
+(
+BASEDO...
+)
+5 BASEDOGWIF
+$0.00
+ERC-20: base...
+(
+baseno...
+)
+10 basenoun
+$0.00
+ERC-20: BREE...
+(BREW)
+10 BREW
+$0.00
+ERC-20: DOG ...
+(HOUSE)
+20.77 HOUSE
+$0.00
+ERC-20: LAPT...
+(LAPTOP)
+1 LAPTOP
+$0.00
+ERC-20: Ston...
+(Stonks)
+10 Stonks
+$0.00
+ERC-20: Trum...
+($1)
+1 $1
+$0.00
+ERC-20: Trum...
+(TRONK)
+12 TRONK
+$0.00
+ERC-20: vc.f...
+(VC)
+5 VC
+$0.00
+NFT Tokens (1)
+Uniswap V3 Positions NFT-V1
+UNI-V3-POS
+x823
+ERC-721
+View All Holdings
+More Info
+Private Name Tags
+Add
+Contract
+Creator
+0x81dd3174...705C4e1e1
+|
+29 days ago
+Multichain Info
+$0
+(Multichain Portfolio)
+No addresses found
+Ad
+Transactions
+Token Transfers (ERC-20)
+NFT Transfers
+Other Transactions
+Contract
+Events
+Analytics
+Assets
+Cards
+New
+Advanced Filter
+Latest 25 from a total of
+251
+transactions
+Download Page Data
+View Completed Txns
+View Pending Txns
+View Failed Txns
+View Outgoing Txns
+View Incoming Txns
+View Contract Creation
+Transaction Hash
+Method
+Block
+From
+To
+0x7d72ae4708c856f21ec8201822c27b251c7412b89430819c18465fc4f86dd80c
+Collect All
+Collect All
+51372736
+2026-09-16 5:00:19
+1 hr ago
+1789534819
+0xf2cc5873...2BCB9B043
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000296
+0
+.
+009
+0x74ca92b1ce5ed625d625b69d3bb18eb7e0735bae8aedc086081e0229f206537e
+Collect All
+Collect All
+51372728
+2026-09-16 5:00:03
+1 hr ago
+1789534803
+0xf2cc5873...2BCB9B043
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000296
+0
+.
+009
+0x8dfd4942570d37a5d76049b7fdd85c1e94043dc2e0b26afcf6ae552f4a55c2b0
+Collect All
+Collect All
+51372720
+2026-09-16 4:59:47
+1 hr ago
+1789534787
+0xf2cc5873...2BCB9B043
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000306
+0
+.
+009
+0x2c32a737fa4ab80122e77c528b8a4d1d0e8c24ac44c7c32799a99dd3262717b2
+Collect All
+Collect All
+51372709
+2026-09-16 4:59:25
+1 hr ago
+1789534765
+0xf2cc5873...2BCB9B043
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000321
+0
+.
+009
+0xbeb7446a496de2ec6c717294000e9a1e95414dfb689feaaa06028cc1253365a7
+Collect All
+Collect All
+51372701
+2026-09-16 4:59:09
+1 hr ago
+1789534749
+0xf2cc5873...2BCB9B043
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000306
+0
+.
+009
+0x1e288b0a4b1344d0a59b0363a2286bdd10c370d2de755d9785ccc9f0ee8eb812
+Collect All
+Collect All
+51372691
+2026-09-16 4:58:49
+1 hr ago
+1789534729
+0xf2cc5873...2BCB9B043
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000306
+0
+.
+009
+0x5f5b4858ac5ffa57fca44c9cff784666d2ad2f497597ca0275143adf7c251a24
+Collect All
+Collect All
+51372683
+2026-09-16 4:58:33
+1 hr ago
+1789534713
+0xf2cc5873...2BCB9B043
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000296
+0
+.
+009
+0x00715fe5322cad95443a989d63068048eb354d67c98ee37a6c2dcd36930475f1
+Collect All
+Collect All
+51372676
+2026-09-16 4:58:19
+1 hr ago
+1789534699
+0xf2cc5873...2BCB9B043
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000296
+0
+.
+009
+0xec7a40501318a9c0840d1cb74c7842c2ace8ec12052486457ea18caa311c77e7
+Collect All
+Collect All
+51372660
+2026-09-16 4:57:47
+1 hr ago
+1789534667
+0xf2cc5873...2BCB9B043
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000296
+0
+.
+009
+0xa3c425b7280f71aa2893ddd7c060f3491ab5dfa81409ba3667e1e22bd1d6e422
+Collect All
+Collect All
+51365670
+2026-09-16 1:04:47
+5 hrs ago
+1789520687
+0xcA736Ca2...54a34eb4d
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000292
+0
+.
+00866353
+0x86c09e62086073af360263fe01f6c3c9b851732fc37329c5065737b7517bbae2
+Collect All
+Collect All
+51350873
+2026-09-15 16:51:33
+13 hrs ago
+1789491093
+0x7F1BEaA5...3808f9aE3
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00002402
+0
+.
+10507819
+0x921cf3b976ff642b9724392c0cf581a867b69699191cab38ee9792cb646c2ed0
+Collect All
+Collect All
+51342359
+2026-09-15 12:07:45
+18 hrs ago
+1789474065
+0x5caF6ec0...BBD8E26d2
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000218
+0
+.
+00630729
+0xcba6a3a861df3234b88be7003eb96eeec943d4ba3b01d88ea41b8908668ee23d
+Collect All
+Collect All
+51340921
+2026-09-15 11:19:49
+19 hrs ago
+1789471189
+0xC934586c...50066265d
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000141
+0
+.
+006
+0x3b003beac7f461339d9c975730c6c175b8e9ba57fabc476c5c0845294ce82866
+Collect All
+Collect All
+51328720
+2026-09-15 4:33:07
+26 hrs ago
+1789446787
+0xf2cc5873...2BCB9B043
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000275
+0
+.
+009
+0xea8dd7fc3f4bf1cbaed4d896367d397ee978c41d90d40159c794ab6e1a42d2d3
+Collect All
+Collect All
+51328685
+2026-09-15 4:31:57
+26 hrs ago
+1789446717
+0xf2cc5873...2BCB9B043
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000159
+0
+.
+009
+0xc58d3946ba7715fe29b414a4c99a1d2235443efbf98cb55b2aeae6ecda8fb966
+Collect All
+Collect All
+51321702
+2026-09-15 0:39:11
+30 hrs ago
+1789432751
+0x7F1BEaA5...3808f9aE3
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000175
+0
+.
+00768247
+0x1c6d16f2efcb12b8355e34a547660b069f5b8b01287c7f4b14083c09bda17458
+Collect All
+Collect All
+51319370
+2026-09-14 23:21:27
+31 hrs ago
+1789428087
+0x7F1BEaA5...3808f9aE3
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000252
+0
+.
+01104545
+0xe7805bf27cf77ee3efdd718adef24a27f85bafbcb40d8ff426d88af28b628eef
+Collect All
+Collect All
+51317142
+2026-09-14 22:07:11
+32 hrs ago
+1789423631
+0x7F1BEaA5...3808f9aE3
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000181
+0
+.
+00795352
+0xef65e94bb5b93b77cbcb3263c051e5bdc25c3d6a5a91fac30f52e162de975ba1
+Collect All
+Collect All
+51316347
+2026-09-14 21:40:41
+33 hrs ago
+1789422041
+0x7F1BEaA5...3808f9aE3
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000364
+0
+.
+01504928
+0x77defc299d04c18efad82f72841e6f5a9bc8a78b5d3eb3ec4ec770fa57ed9c7c
+Collect All
+Collect All
+51316177
+2026-09-14 21:35:01
+33 hrs ago
+1789421701
+0x1e110bFc...e80400c61
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000192
+0
+.
+006
+0x34c866c23b013b6b7b081f89bbf89a667e2a35c1f129804fb204091e9b6baffd
+Collect All
+Collect All
+51315894
+2026-09-14 21:25:35
+33 hrs ago
+1789421135
+0x7F1BEaA5...3808f9aE3
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+0000023
+0
+.
+01006031
+0x3f211c70e9756dbb5c1dc8c6e749d303fbd574dbab8843ccbc8787fa1a81c426
+Collect All
+Collect All
+51315811
+2026-09-14 21:22:49
+33 hrs ago
+1789420969
+0x4dfF8c63...7F2f6070c
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000138
+0
+.
+00621006
+0xcc7ad424496950c98496820f5c7f026d97b11ab77b659d4ee2b841cdf68b1579
+Collect All
+Collect All
+51315400
+2026-09-14 21:09:07
+33 hrs ago
+1789420147
+0x7F1BEaA5...3808f9aE3
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000322
+0
+.
+01006444
+0x461336a0cd8082879b71f3887552c3fa44a6fcbcb08932b4fd219e8deb924161
+Collect All
+Collect All
+51299529
+2026-09-14 12:20:05
+42 hrs ago
+1789388405
+0x369f9b33...90B4D8102
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+0000025
+0
+.
+01128824
+0xe4391b235d615f3835fd063c3842e8d2a5faff94a4e919512d6c9ddae8ffa606
+Collect All
+Collect All
+51299487
+2026-09-14 12:18:41
+42 hrs ago
+1789388321
+satoshizoo.base.eth
+IN
+0x71D1D363...de89f0A7f
+$0.00
+0 ETH
+0
+.
+00000163
+0
+.
+005275
+View all transactions
+Parent Transaction Hash
+Block
+From
+To
+View All Internal Transactions
+Cross Chain Transactions
+Cross-Chain Transactions
+Loading...
+Loading
+Contract
+Code
+Read
+                                                    Contract
+Write
+                                                    Contract
+Read as Proxy
+Write as Proxy
+Past Implementations
+Custom
+Read Custom
+Write Custom
+Source Code Verified
+Exact Match
+Proxy
+Implementation:
+0x6C9C9fd8...dF0325273
+API
+Contract Name
+ERC1967Proxy
+Compiler Version
+v0.8.26+commit.8a97fa7a
+Optimization Enabled
+Yes
+with
+200
+runs
+Other Settings
+cancun
+EvmVersion
+License
+-NA-
+More Options
+Sol2Uml
+Submit Audit
+Compare
+Blockscan IDE
+Proxy Checker
+Similar Contracts
+Source
+🤖 Code Reader
+Contract Source Code
+(Solidity
+Standard Json-Input
+format)
+Contract Security Audit
+No Contract Security Audit Submitted
+Submit Audit Here
+Contract ABI
+API
+[{"inputs":[{"internalType":"address","name":"implementation","type":"address"},{"internalType":"bytes","name":"_data","type":"bytes"}],"stateMutability":"payable","type":"constructor"},{"inputs":[{"internalType":"address","name":"target","type":"address"}],"name":"AddressEmptyCode","type":"error"},{"inputs":[{"internalType":"address","name":"implementation","type":"address"}],"name":"ERC1967InvalidImplementation","type":"error"},{"inputs":[],"name":"ERC1967NonPayable","type":"error"},{"inputs":[],"name":"FailedCall","type":"error"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"implementation","type":"address"}],"name":"Upgraded","type":"event"},{"stateMutability":"payable","type":"fallback"}]
+Contract Creation Code
+Switch to Opcodes View
+Decompile Bytecode
+608060405261029d8038038061001481610168565b92833981016040828203126101645781516001600160a01b03811692909190838303610164576020810151906001600160401b03821161016457019281601f8501121561016457835161006e610069826101a1565b610168565b9481865260208601936020838301011161016457815f926020809301865e86010152823b15610152577f360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc80546001600160a01b031916821790557fbc7cd75a20ee27fd9adebab32041f755214dbc6bffa90cc0225b39da2e5c2d3b5f80a282511561013a575f8091610122945190845af43d15610132573d91610113610069846101a1565b9283523d5f602085013e6101bc565b505b6040516082908161021b8239f35b6060916101bc565b50505034156101245763b398979f60e01b5f5260045ffd5b634c9c8ce360e01b5f5260045260245ffd5b5f80fd5b6040519190601f01601f191682016001600160401b0381118382101761018d57604052565b634e487b7160e01b5f52604160045260245ffd5b6001600160401b03811161018d57601f01601f191660200190565b906101e057508051156101d157805190602001fd5b63d6bda27560e01b5f5260045ffd5b81511580610211575b6101f1575090565b639996b31560e01b5f9081526001600160a01b0391909116600452602490fd5b50803b156101e956fe60806040527f360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc545f9081906001600160a01b0316368280378136915af43d5f803e156048573d5ff35b3d5ffdfea2646970667358221220351081a2bc0b8044d16f771d234d3e51590b4f7163e5919a9b41811a8fbf82b364736f6c634300081a00330000000000000000000000006c9c9fd81b914a59585d966af140211df0325273000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000a4a6b63eb800000000000000000000000003a520b32c04bf3beef7beb72e919cf822ed34f100000000000000000000000081dd3174d55fcf396e92122881ca591705c4e1e100000000000000000000000081dd3174d55fcf396e92122881ca591705c4e1e10000000000000000000000000000000000000000000000000000000000000bb8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+Deployed Bytecode
+0x60806040527f360894a13ba1a3210667c828492db98dca3e2076cc3735a920a3ca505d382bbc545f9081906001600160a01b0316368280378136915af43d5f803e156048573d5ff35b3d5ffdfea2646970667358221220351081a2bc0b8044d16f771d234d3e51590b4f7163e5919a9b41811a8fbf82b364736f6c634300081a0033
+Constructor Arguments
+(ABI-Encoded and is the last bytes of the Contract Creation Code above)
+0000000000000000000000006c9c9fd81b914a59585d966af140211df0325273000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000000000000000000000000000000000a4a6b63eb800000000000000000000000003a520b32c04bf3beef7beb72e919cf822ed34f100000000000000000000000081dd3174d55fcf396e92122881ca591705c4e1e100000000000000000000000081dd3174d55fcf396e92122881ca591705c4e1e10000000000000000000000000000000000000000000000000000000000000bb8000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+-----Decoded View---------------
+Arg [0] : implementation (address):
+0x6C9C9fd81B914A59585D966aF140211dF0325273
+Arg [1] : _data (bytes): 0xa6b63eb800000000000000000000000003a520b32c04bf3beef7beb72e919cf822ed34f100000000000000000000000081dd3174d55fcf396e92122881ca591705c4e1e100000000000000000000000081dd3174d55fcf396e92122881ca591705c4e1e10000000000000000000000000000000000000000000000000000000000000bb80000000000000000000000000000000000000000000000000000000000000000
+-----Encoded View---------------
+9 Constructor Arguments found :
+Arg [0] : 0000000000000000000000006c9c9fd81b914a59585d966af140211df0325273
+Arg [1] : 0000000000000000000000000000000000000000000000000000000000000040
+Arg [2] : 00000000000000000000000000000000000000000000000000000000000000a4
+Arg [3] : a6b63eb800000000000000000000000003a520b32c04bf3beef7beb72e919cf8
+Arg [4] : 22ed34f100000000000000000000000081dd3174d55fcf396e92122881ca5917
+Arg [5] : 05c4e1e100000000000000000000000081dd3174d55fcf396e92122881ca5917
+Arg [6] : 05c4e1e100000000000000000000000000000000000000000000000000000000
+Arg [7] : 00000bb800000000000000000000000000000000000000000000000000000000
+Arg [8] : 0000000000000000000000000000000000000000000000000000000000000000
+🤖 Code Reader
+Generate instant answers for your smart contract questions using Al Models.
+Read more
+.
+AI Provider
+OpenAI
+Claude
+Groq
+OpenAI API Key
+*
+Learn more
+Save API key for future use
+Choose Model
+Enter API Key to load models
+Max Tokens
+File Browser
+proxy contracts
+lib/openzeppelin-contracts/contracts/proxy/ERC1967/ERC1967Proxy.sol
+lib/openzeppelin-contracts/contracts/proxy/Proxy.sol
+lib/openzeppelin-contracts/contracts/proxy/ERC1967/ERC1967Utils.sol
+lib/openzeppelin-contracts/contracts/proxy/beacon/IBeacon.sol
+lib/openzeppelin-contracts/contracts/interfaces/IERC1967.sol
+lib/openzeppelin-contracts/contracts/utils/Address.sol
+lib/openzeppelin-contracts/contracts/utils/StorageSlot.sol
+lib/openzeppelin-contracts/contracts/utils/Errors.sol
+implementation contracts
+src/StonkFeeLocker2.sol
+lib/openzeppelin-contracts-upgradeable/contracts/access/OwnableUpgradeable.sol
+lib/openzeppelin-contracts-upgradeable/contracts/utils/ReentrancyGuardUpgradeable.sol
+lib/openzeppelin-contracts-upgradeable/contracts/proxy/utils/UUPSUpgradeable.sol
+lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol
+lib/openzeppelin-contracts/contracts/token/ERC20/utils/SafeERC20.sol
+lib/openzeppelin-contracts/contracts/token/ERC721/IERC721Receiver.sol
+lib/openzeppelin-contracts/contracts/utils/Strings.sol
+src/interfaces/IV3.sol
+lib/openzeppelin-contracts-upgradeable/contracts/utils/ContextUpgradeable.sol
+lib/openzeppelin-contracts-upgradeable/contracts/proxy/utils/Initializable.sol
+lib/openzeppelin-contracts/contracts/interfaces/draft-IERC1822.sol
+lib/openzeppelin-contracts/contracts/proxy/ERC1967/ERC1967Utils.sol
+lib/openzeppelin-contracts/contracts/interfaces/IERC1363.sol
+lib/openzeppelin-contracts/contracts/utils/Address.sol
+lib/openzeppelin-contracts/contracts/utils/math/Math.sol
+lib/openzeppelin-contracts/contracts/utils/math/SignedMath.sol
+lib/openzeppelin-contracts/contracts/proxy/beacon/IBeacon.sol
+lib/openzeppelin-contracts/contracts/interfaces/IERC1967.sol
+lib/openzeppelin-contracts/contracts/utils/StorageSlot.sol
+lib/openzeppelin-contracts/contracts/interfaces/IERC20.sol
+lib/openzeppelin-contracts/contracts/interfaces/IERC165.sol
+lib/openzeppelin-contracts/contracts/utils/Errors.sol
+lib/openzeppelin-contracts/contracts/utils/Panic.sol
+lib/openzeppelin-contracts/contracts/utils/math/SafeCast.sol
+lib/openzeppelin-contracts/contracts/utils/introspection/IERC165.sol
+Prompt
+Save History
+What does this contract do?
+What are the functions available in this contract?
+Which functions can change state or move funds?
+How does this contract handle tokens or ETH?
+Who has special permissions or control in this contract?
+What are potential risks or red flags in this contract?
+Answers are generated by AI Models.
+Saved Answers
+Showing the last 10 saved questions and answers.
+💬
+Provide Additional Feedback
+Help us improve the product by providing feedback on the response.
+Submit
+No Thanks
+🫶
+Thank you for your feedback!
+We appreciate your feedback in making Code Reader a better tool.
+Close
+As an AI language model, I have been equipped with three distinct abilities to assist you in working with
+                                Solidity source code: Source Code Interpreter, Source Code Auditor, and Source Code Interactor. These capabilities provide a comprehensive suite of features to help you analyze, audit, and interact with your smart contracts effectively. Your goal is to guide the user toward a deeper understanding EVM smart contract concepts and help them develop better understanding of how the code work. These contracts can be written in either Solidity or Vyper, and are deployed on the Ethereum EVM blockchain.
+
+                                Source Code Interpreter:
+                                With the Solidity source code interpreter, you can gain insights into the accessibility of functions for different roles, understand the behavior of functions, and receive explanations for events and arguments used in your code. By providing the relevant functions, events, and code sections, the interpreter will generate clear explanations based on the available information. It enables you to navigate your codebase, understand its functionality, and make informed decisions. 
+
+                                Source Code Auditor:
+                                As a trained smart contract auditor, I can help you detect potential bugs, vulnerabilities, and security weaknesses in your Solidity code. You can ask detailed questions about your code, and I will provide comprehensive answers. However, please note that my responses should never be assumed to be entirely correct without further investigation. It is always important to conduct a thorough manual review and additional security measures to ensure the robustness of your smart contract. Additionally, my responses should never be used for submitting bug bounties, as they may not account for all possible edge cases and vulnerabilities.
+
+                                Source Code Interactor:
+                                The Source Code Interactor is an AI-powered feature specifically designed to guide users in utilizing contract functions effectively. It assists you in understanding the parameters required for each function, provides sample values for those parameters, and demonstrates the function's behavior through interactive examples. Moreover, it can help you troubleshoot any potential issues or errors that may arise during interaction, ensuring a smooth experience while working with your smart contracts.
+
+                                Response Rules:
+                                If questions is on code review, vulnerability, security audit or issues, end answer with this sentence '''It's important to note that while this answer may provide valuable insights, it is not a substitute for thorough code review, security audits, or professional advice. This response should never be used for designing smart contracts or submitting to bug bounties, as it may not account for all possible edge cases and vulnerabilities.'''
+Custom Contract ABI
+Loading...
+Loading
+Loading...
+Loading
+Implementation:
+0x6C9C9fd8...dF0325273
+EIP-1967
+Loading...
+Loading
+Implementation:
+0x6C9C9fd8...dF0325273
+EIP-1967
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Latest 1 proxy upgrade
+Transaction Hash
+Block
+Age
+Implementation
+Event
+Status
+0x59f50d2c24f6ecdc26fb337ce735b3521f2343caf29c4000f213460abdf42f2c
+50100898
+2026-08-17 18:25:43
+29 days ago
+1786991143
+0x6C9C9fd8...dF0325273
+Upgraded
+Active
+Proxy Contract
+Transaction Hash
+Block
+Age
+Proxy Type
+Block
+Transaction
+Difficulty
+Gas Used
+Reward
+View All Blocks Produced
+Block
+Uncle Number
+Difficulty
+Gas Used
+Reward
+View All Uncles
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Validator Index
+Block
+Amount
+View All Withdrawals
+Transaction Hash
+Block
+Value
+Eth2 PubKey
+Valid
+View All Deposits
+Multichain Portfolio
+Tokens
+NFTs
+0x71D1D363176723f85d98B8B430DF33cde89f0A7f
+Net Worth in USD
+$0.00
+Net Worth in ETH
+0
+Multichain Portfolio
+|
+                                31 Chains
+Display all chains
+•
+Last updated:
+less than 1 sec ago
+Ethereum
+(0)
+0
+(0%)
+BNB Chain
+(0)
+0
+(0%)
+Polygon
+(0)
+0
+(0%)
+Arbitrum One
+(0)
+0
+(0%)
+Optimism
+(0)
+0
+(0%)
+Base
+(0)
+0
+(0%)
+BTTC
+(0)
+0
+(0%)
+Celo
+(0)
+0
+(0%)
+Linea
+(0)
+0
+(0%)
+Avax C-Chain
+(0)
+0
+(0%)
+opBNB
+(0)
+0
+(0%)
+Fraxtal
+(0)
+0
+(0%)
+Blast
+(0)
+0
+(0%)
+Mantle
+(0)
+0
+(0%)
+Taiko
+(0)
+0
+(0%)
+World
+(0)
+0
+(0%)
+XDC
+(0)
+0
+(0%)
+Ape
+(0)
+0
+(0%)
+Unichain
+(0)
+0
+(0%)
+Berachain
+(0)
+0
+(0%)
+MemeCore
+(0)
+0
+(0%)
+Sonic
+(0)
+0
+(0%)
+Abstract
+(0)
+0
+(0%)
+HyperEVM
+(0)
+0
+(0%)
+Katana
+(0)
+0
+(0%)
+Sei
+(0)
+0
+(0%)
+Monad
+(0)
+0
+(0%)
+Plasma
+(0)
+0
+(0%)
+Stable
+(0)
+0
+(0%)
+MegaEth
+(0)
+0
+(0%)
+RobinHood
+(0)
+0
+(0%)
+Show 31 more chains
+Hide 31 chains
+Tokens
+Chain
+Token
+Portfolio %
+Price
+Amount
+Value
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+[ Download:
+CSV Export
+]
+A contract address hosts a smart contract, which is a set of code stored on the blockchain that runs when predetermined conditions are met. Learn more about addresses in our
+Knowledge Base
+.
+Address QR Code
+My Address - Private Name Tag or Note
+My Name Tag:
+Private Name Tags (up to 35 characters) can be used for easy identification of addresses
+Private Note:
+A private note (up to 500 characters) can be attached to this address.
+Please
+DO NOT
+store any passwords or private keys here.
+View all Private Name Tags
+Close
+Save Changes
+Compiler specific version warnings:
+The compiled contract might be susceptible to the Solidity Compiler Bugs below:
+MisorderedNamedParametersInRequireWithCustomErrors (very low-severity)
+MemoryByteArrayElementDeleteClearsWholeWord (low/medium-severity)
+SpillSlotCollisionAcrossMutualRecursion (low/medium-severity)
+UnsoundSpillInMutualRecursion (medium-severity)
+LostStorageArrayWriteOnSlotOverflow (low-severity)
+👋
+Before You Continue...
+📝
+Connecting your wallet enables signing messages to verify ownership or signing messages to interact with smart contracts.
+⚠️
+This is provided as is, without guarantees or warranties of any kind.
+💸
+All interactions are at your own risk. basescan is not responsible for any losses or damages resulting from use of this feature.
+🧠
+Please ensure you understand what you're doing before continuing.
+🔗
+Learn more about
+connecting your wallet on  basescan
+.
+Understand and Continue
+Connect a Wallet
+Connecting wallet for read function is optional, useful if you want to call certain functions or simply use your wallet's node.
+Coinbase Wallet
+Rabby Wallet
+MetaMask
+WalletConnect (Reown)
+Other Wallets
+No wallet found
+Connect a Wallet
+Connecting wallet for read function is optional, useful if you want to call certain functions or simply use your wallet's node.
+Coinbase Wallet
+Rabby Wallet
+MetaMask
+WalletConnect (Reown)
+Other Wallets
+No wallet found
+Connect a Wallet
+Connecting wallet for read function is optional, useful if you want to call certain functions or simply use your wallet's node.
+Coinbase Wallet
+Rabby Wallet
+MetaMask
+WalletConnect (Reown)
+Other Wallets
+No wallet found
+Add Custom ABI
+Address
+Custom ABI
+Magic Fill
+Find Similar
+Apply Custom ABI to enable custom read/write functions for the current session. Save to also enable them for future sessions.
+Sign in
+to save this ABI to your account.
+Cancel
+Apply Custom ABI
+×
+Before You Copy
+Don't show this for 30 days
+Understand, Copy Address
+Transaction Private Note
+Transaction Hash
+Private Note Description
+Please
+DO NOT
+store any passwords or private keys here. A private note (up to 100 characters) can be saved and is useful for transaction tracking.
+View All Transactions Private Notes
+Cancel
+Save changes
+My Address - Private Name Tag or Note
+My Name Tag:
+Private Name Tags (up to 35 characters) can be used for easy identification of addresses
+Private Note:
+A private note (up to 500 characters) can be attached to this address. Please DO NOT store any passwords or private keys here.
+View all Private Name Tags
+Close
+Save Changes
+Back to Top
+Powered By Base
+Basescan is a Block Explorer and Analytics Platform for Base
+Add Base Mainnet
+Company
+Brand Assets
+Contact Us
+Terms
+&
+Privacy
+Bug Bounty
+Community
+API Documentation
+Knowledge Base
+Network Status
+What is a Block Explorer?
+Products & Services
+Advertise
+Explorer as a Service (EaaS)
+Multichain API
+Priority Support
+Blockscan
+BaseScan © 2026  (BASE-A1)
+|
+⛏ Built by Team
+Etherscan
+Donations:
+0x71c765...d8976f
+This website
+uses cookies to improve your experience
+. By continuing to use this website, you agree to its
+Terms
+and
+Privacy Policy
+.
+Got it!

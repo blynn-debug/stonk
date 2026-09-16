@@ -1,0 +1,14 @@
+{
+  "url": "https://basescan.org/address/0x6a9f14e7742e8972fcf86429c5aa7db56589806d#code",
+  "fetched_at_utc": "2026-09-16T06:47:20.380618+00:00",
+  "http_status": "200",
+  "error": "",
+  "path": "contracts/implementation-0x6a9f14e7742e8972fcf86429c5aa7db56589806d/page.html",
+  "sha256": "5a52b8c475e4eaf01680b4ebc0ee56cfbe16091def574499b174a4b4d2ec9390",
+  "name": "implementation-0x6a9f14e7742e8972fcf86429c5aa7db56589806d",
+  "address": "0x6a9f14e7742e8972fcf86429c5aa7db56589806d",
+  "chain_id": 8453,
+  "source_files": 38,
+  "abi_saved": true,
+  "implementations": []
+}

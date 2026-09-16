@@ -1,0 +1,1349 @@
+Address: 0x44b5c100...72b73dcbd | BaseScan
+ETH Price:
+$2,398.05
+(-3.42%)
+Gas:
+0.005 Gwei
+/
+Light
+Dim
+Dark
+Auto (System)
+Base Mainnet
+Base Sepolia Testnet
+Sign In
+Home
+Blockchain
+Transactions
+Latest L1→L2 Transactions
+Latest L2→L1 Transactions
+Contract Internal Transactions
+Cross-Chain Transactions
+AA Transactions
+EIP-7702 Authorizations
+Beta
+View Blocks
+View L1 Transaction Batches
+View L1 State Batches
+Top Accounts
+Verified Contracts
+Tokens
+Top Tokens
+(ERC-20)
+Token Transfers
+(ERC-20)
+Token Flow Visualizer
+Beta
+NFTs
+Latest Transfers
+Latest Mints
+Resources
+Charts &  Stats
+Directory
+API
+Multichain API
+API Pricing
+API Documentation
+More
+Developer Tools
+Input Data Encoder
+Beta
+Input Data Decoder
+Unit Converter
+Download Data (CSV Export)
+Account Balance Checker
+Broadcast Transaction
+Bytecode to Opcode
+Smart Contract Tools
+Code Reader
+Verify Contract
+Similar Contract Search
+Contract Diff Checker
+Vyper Online Compiler
+Explore
+Gas Tracker
+Label Cloud
+Domain Name Lookup
+Services
+Token Approvals
+Verified Signature
+Input Data Messages (IDM)
+Advanced Filter
+Explorers
+Base Mainnet
+Base Sepolia Testnet
+Site Settings
+Appearance
+Light
+Dim
+Dark
+Auto (System)
+|
+Sign In
+Contract
+0x44b5C100513e6F625037c039300c5bc72B73DCbD
+Buy
+Sponsored
+etoro
+Explore Crypto
+Start Investing.
+Explore a diverse range of leading cryptoassets and trade them alongside stocks, ETFs, and more.
+Play
+Sponsored
+BC.Game
+The best crypto casino in the world. Get up to 5 BtC in daily bonuses with our free spin wheel.
+Spin Now!
+Join now and instantly enjoy bonus of 1000000 USDC, 760% exclusive deposit bonus.
+Rainbet
+Crypto Casino & Sportsbook
+Play Now!
+Originals, Slots, Sports. Up to 80% back in unmatched rewards. 1.5M in races a month!
+Vavada
+Crypto Casino with Top Slots & Live Games
+Play Now
+Get a 100% bonus up to 1000 USDT + 100 FS and play with crypto
+Gaming
+Sponsored
+BC.Game
+The best crypto casino in the world. 760% exclusive deposits bonus.
+Deposit Now!
+50+ token options, 100% bet insurance for a worry-free gaming experience.
+Stake
+200% Bonus, Instant Withdrawals, 100K Daily Giveaways, BEST VIP Club
+Claim Bonus!
+20+ Cryptos, 3000+ Slots, Daily & Monthly Bonuses, Exclusive Sports Promos - Provably Fair!
+Kings.Game
+500% Bonus, 30% Rakeback, Exclusive VIP Club & Tournaments, Instant Withdrawals
+Win Now!
+Enjoy Crypto & Banking, 8000+ Games & Sports, Missions, Daily, Weekly and Monthly Bonuses, Reload, Annual rewards.
+Source Code
+Source Code (Proxy)
+Implementation:
+0x439A53cA...B25ffA339
+API
+Token Approvals
+Beta
+Check Previous Balance
+Update Name Tag or Label
+Report/Flag Address
+Overview
+ETH Balance
+0
+.
+004007234397593129 ETH
+ETH Value
+$9.61
+(@ $2,398.05/ETH)
+Token Holdings
+$0.00
+(7 Tokens)
+Could not find any matches!
+ERC-20 Tokens (7)
+ERC-20: DOG ...
+(HOUSE)
+20.77 HOUSE
+$0.00
+ERC-20: REV&...
+(RƎ́V)
+167 RƎ́V
+$0.00
+ERC-20: Ston...
+(Stonks)
+20 Stonks
+$0.00
+ERC-20: The ...
+(
+STONKE...
+)
+5 STONKEX
+$0.00
+ERC-20: The ...
+(
+STONKE...
+)
+1,500 STONKEX
+$0.00
+ERC-20: Trum...
+(TRONK)
+5 TRONK
+$0.00
+ERC-20: vc.f...
+(VC)
+5 VC
+$0.00
+View All Holdings
+More Info
+Private Name Tags
+Add
+Contract
+Creator
+0x81dd3174...705C4e1e1
+|
+22 days ago
+Multichain Info
+$9.61
+(Multichain Portfolio)
+No addresses found
+Ad
+Transactions
+Internal Transactions
+Token Transfers (ERC-20)
+Other Transactions
+Contract
+Events
+Analytics
+Assets
+Cards
+New
+Advanced Filter
+Latest 25 from a total of
+4,679
+transactions
+Download Page Data
+View Completed Txns
+View Pending Txns
+View Failed Txns
+View Outgoing Txns
+View Incoming Txns
+View Contract Creation
+Transaction Hash
+Method
+Block
+From
+To
+0x0ec8316d1773eaa93d8ff3dfb49f608fdd4b1b3ef12312b7cccd8ffcfbf2af2f
+Harvest
+Harvest
+51376173
+2026-09-16 6:54:53
+24 secs ago
+1789541693
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000208
+0
+.
+006
+0xe93bff61c162bf46eb381719674184fc44dd6de4ce5fb49b13873fdac191bcc8
+Burn
+Burn
+51374824
+2026-09-16 6:09:55
+45 mins ago
+1789538995
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000033
+0
+.
+006
+0x7f99a5a2720b5c982d9715abd758036b2d480f991090f3817feab151c6b4df9b
+Swap
+Swap
+51374824
+2026-09-16 6:09:55
+45 mins ago
+1789538995
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000127
+0
+.
+006
+0xb0e161df569960c7e623ccfe71e3ba314f2e270313c8a170c348177ffb8208a0
+Harvest
+Harvest
+51374822
+2026-09-16 6:09:51
+45 mins ago
+1789538991
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000184
+0
+.
+006
+0x3a53b163b5b728cda93fba9c03c8f999669188dd7fd7a2578729ff9fe6e38017
+Swap
+Swap
+51374374
+2026-09-16 5:54:55
+1 hr ago
+1789538095
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000264
+0
+.
+006
+0xe599723c7f8f82d17ba70982cbb39191a8ed2cd40a5c69b6977ddd8a6d4c04bd
+Harvest
+Harvest
+51374372
+2026-09-16 5:54:51
+1 hr ago
+1789538091
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000208
+0
+.
+006
+0xfd8185da151df4cb100e03f1516f5db6aa873f9ca7906a2a1a94cad4d3bb3b96
+Burn
+Burn
+51373471
+2026-09-16 5:24:49
+1 hr ago
+1789536289
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000033
+0
+.
+006
+0x57be2e23b7ae1ade6538ad017f5405bd46d1e6e786ae31aa0693067dc09b591e
+Swap
+Swap
+51373023
+2026-09-16 5:09:53
+1 hr ago
+1789535393
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000242
+0
+.
+006
+0xa04f7ab61f888cf32028eebbc6a10ce1e29d17d814ab0f639980e4605e88419e
+Harvest
+Harvest
+51373021
+2026-09-16 5:09:49
+1 hr ago
+1789535389
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000192
+0
+.
+006
+0x8c345a1bab63c80b17d9d79f20586788d211a10744b9aae5e48261bd1542dde7
+Burn
+Burn
+51372573
+2026-09-16 4:54:53
+2 hrs ago
+1789534493
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000033
+0
+.
+006
+0x709116d7758ae51448eba0966d1948f28c3a7a44bbfd0fc1dc046da02226697f
+Swap
+Swap
+51372573
+2026-09-16 4:54:53
+2 hrs ago
+1789534493
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000279
+0
+.
+006
+0x633bbe30f38011d817461b5d1336f9a0f297c91e53c2524918f28932f4177c98
+Harvest
+Harvest
+51372571
+2026-09-16 4:54:49
+2 hrs ago
+1789534489
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000184
+0
+.
+006
+0xbb14072a7eba7354f51472c18c0dfe3296954f95372d336778ff362ab0f05ab8
+Swap
+Swap
+51372123
+2026-09-16 4:39:53
+2 hrs ago
+1789533593
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000135
+0
+.
+006
+0x37a0e7ccfe0b5904e33a3c07ff8d9a1107465ffd45ab880c1b206b29b1ccbb76
+Harvest
+Harvest
+51372121
+2026-09-16 4:39:49
+2 hrs ago
+1789533589
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000192
+0
+.
+006
+0x830f4cdbb343daca78194a5e0804760c7b2aeee209be569f15c9496ce8e24e42
+Burn
+Burn
+51371222
+2026-09-16 4:09:51
+2 hrs ago
+1789531791
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000033
+0
+.
+006
+0x2f8a0c8a56f39f92ea634ff1dd2f525673750a4047c82e6a23920403352831ed
+Swap
+Swap
+51371222
+2026-09-16 4:09:51
+2 hrs ago
+1789531791
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000127
+0
+.
+006
+0xb4773ef4017c17c75c16f08dc393ebab4668714d66ec07f2f06caf03737338ef
+Harvest
+Harvest
+51371220
+2026-09-16 4:09:47
+2 hrs ago
+1789531787
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000167
+0
+.
+006
+0xf72341e82692b85fd30bd7f0bbe5acbc80311b3d64d8d47b73db33b9383d4b28
+Burn
+Burn
+51370319
+2026-09-16 3:39:45
+3 hrs ago
+1789529985
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000033
+0
+.
+006
+0x1b6ba3f1868506e6b74d47d6b018adebf460fb1f826a94fea4c4aad0def1ec72
+Swap
+Swap
+51369869
+2026-09-16 3:24:45
+3 hrs ago
+1789529085
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000135
+0
+.
+006
+0xcc000ad21a1abbabab0c919be93c1b0ba564efeffa143c3ff44b6e6db2a40f2e
+Harvest
+Harvest
+51369868
+2026-09-16 3:24:43
+3 hrs ago
+1789529083
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000208
+0
+.
+006
+0xef66d108ce0bf74236aec2485dcf8b70cd6aa8249e8398d8ec5101c94c134af5
+Burn
+Burn
+51368968
+2026-09-16 2:54:43
+4 hrs ago
+1789527283
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000033
+0
+.
+006
+0x1c0a2868f1a8968950535e6cf19cc9fce79bfa1c3d7cf9521dea19c136ee66f8
+Swap
+Swap
+51368518
+2026-09-16 2:39:43
+4 hrs ago
+1789526383
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000134
+0
+.
+006
+0x62e5c6168cd62c4ecde93b774f0944df93414f5ff75cf284e0930bac56954ad4
+Harvest
+Harvest
+51368517
+2026-09-16 2:39:41
+4 hrs ago
+1789526381
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000192
+0
+.
+006
+0x8e4a5e5a1a38b9b2bc52c05e39ef239aab75646f847e28908ebcfe03f7def2ab
+Burn
+Burn
+51368069
+2026-09-16 2:24:45
+4 hrs ago
+1789525485
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000033
+0
+.
+006
+0x8c044392a6dfdc4f88ff338fe9b28877956289ec5659935e7f3a01b3f996ac93
+Swap
+Swap
+51368069
+2026-09-16 2:24:45
+4 hrs ago
+1789525485
+0x2A201Ada...3cDE44C71
+IN
+0x44b5C100...72B73DCbD
+$0.00
+0 ETH
+0
+.
+00000127
+0
+.
+006
+View all transactions
+Latest 25 internal transactions (
+View All
+)
+Download Page Data
+Parent Transaction Hash
+Block
+From
+To
+0x0ec8316d1773eaa93d8ff3dfb49f608fdd4b1b3ef12312b7cccd8ffcfbf2af2f
+51376173
+2026-09-16 6:54:53
+24 secs ago
+1789541693
+0x44b5C100...72B73DCbD
+0x2A201Ada...3cDE44C71
+0.00044302 ETH
+$1.06
+0x0ec8316d1773eaa93d8ff3dfb49f608fdd4b1b3ef12312b7cccd8ffcfbf2af2f
+51376173
+2026-09-16 6:54:53
+24 secs ago
+1789541693
+Wrapped Ether
+0x44b5C100...72B73DCbD
+0.00443026 ETH
+$10.62
+0x7f99a5a2720b5c982d9715abd758036b2d480f991090f3817feab151c6b4df9b
+51374824
+2026-09-16 6:09:55
+45 mins ago
+1789538995
+0x44b5C100...72B73DCbD
+Wrapped Ether
+0.00455042 ETH
+$10.91
+0xb0e161df569960c7e623ccfe71e3ba314f2e270313c8a170c348177ffb8208a0
+51374822
+2026-09-16 6:09:51
+45 mins ago
+1789538991
+0x44b5C100...72B73DCbD
+0x2A201Ada...3cDE44C71
+0.0005056 ETH
+$1.21
+0xb0e161df569960c7e623ccfe71e3ba314f2e270313c8a170c348177ffb8208a0
+51374822
+2026-09-16 6:09:51
+45 mins ago
+1789538991
+Wrapped Ether
+0x44b5C100...72B73DCbD
+0.00505603 ETH
+$12.12
+0x3a53b163b5b728cda93fba9c03c8f999669188dd7fd7a2578729ff9fe6e38017
+51374374
+2026-09-16 5:54:55
+1 hr ago
+1789538095
+0x44b5C100...72B73DCbD
+Wrapped Ether
+0.00450776 ETH
+$10.81
+0xe599723c7f8f82d17ba70982cbb39191a8ed2cd40a5c69b6977ddd8a6d4c04bd
+51374372
+2026-09-16 5:54:51
+1 hr ago
+1789538091
+0x44b5C100...72B73DCbD
+0x2A201Ada...3cDE44C71
+0.00050086 ETH
+$1.20
+0xe599723c7f8f82d17ba70982cbb39191a8ed2cd40a5c69b6977ddd8a6d4c04bd
+51374372
+2026-09-16 5:54:51
+1 hr ago
+1789538091
+Wrapped Ether
+0x44b5C100...72B73DCbD
+0.00500862 ETH
+$12.01
+0x57be2e23b7ae1ade6538ad017f5405bd46d1e6e786ae31aa0693067dc09b591e
+51373023
+2026-09-16 5:09:53
+1 hr ago
+1789535393
+0x44b5C100...72B73DCbD
+Wrapped Ether
+0.01201561 ETH
+$28.81
+0xa04f7ab61f888cf32028eebbc6a10ce1e29d17d814ab0f639980e4605e88419e
+51373021
+2026-09-16 5:09:49
+1 hr ago
+1789535389
+0x44b5C100...72B73DCbD
+0x2A201Ada...3cDE44C71
+0.00133506 ETH
+$3.20
+0xa04f7ab61f888cf32028eebbc6a10ce1e29d17d814ab0f639980e4605e88419e
+51373021
+2026-09-16 5:09:49
+1 hr ago
+1789535389
+Wrapped Ether
+0x44b5C100...72B73DCbD
+0.01335067 ETH
+$32.02
+0x709116d7758ae51448eba0966d1948f28c3a7a44bbfd0fc1dc046da02226697f
+51372573
+2026-09-16 4:54:53
+2 hrs ago
+1789534493
+0x44b5C100...72B73DCbD
+Wrapped Ether
+0.00430103 ETH
+$10.31
+0x633bbe30f38011d817461b5d1336f9a0f297c91e53c2524918f28932f4177c98
+51372571
+2026-09-16 4:54:49
+2 hrs ago
+1789534489
+0x44b5C100...72B73DCbD
+0x2A201Ada...3cDE44C71
+0.00047789 ETH
+$1.15
+0x633bbe30f38011d817461b5d1336f9a0f297c91e53c2524918f28932f4177c98
+51372571
+2026-09-16 4:54:49
+2 hrs ago
+1789534489
+Wrapped Ether
+0x44b5C100...72B73DCbD
+0.00477892 ETH
+$11.46
+0xbb14072a7eba7354f51472c18c0dfe3296954f95372d336778ff362ab0f05ab8
+51372123
+2026-09-16 4:39:53
+2 hrs ago
+1789533593
+0x44b5C100...72B73DCbD
+Wrapped Ether
+0.00708418 ETH
+$16.99
+0x37a0e7ccfe0b5904e33a3c07ff8d9a1107465ffd45ab880c1b206b29b1ccbb76
+51372121
+2026-09-16 4:39:49
+2 hrs ago
+1789533589
+0x44b5C100...72B73DCbD
+0x2A201Ada...3cDE44C71
+0.00078713 ETH
+$1.89
+0x37a0e7ccfe0b5904e33a3c07ff8d9a1107465ffd45ab880c1b206b29b1ccbb76
+51372121
+2026-09-16 4:39:49
+2 hrs ago
+1789533589
+Wrapped Ether
+0x44b5C100...72B73DCbD
+0.00787131 ETH
+$18.88
+0x2f8a0c8a56f39f92ea634ff1dd2f525673750a4047c82e6a23920403352831ed
+51371222
+2026-09-16 4:09:51
+2 hrs ago
+1789531791
+0x44b5C100...72B73DCbD
+Wrapped Ether
+0.00884226 ETH
+$21.20
+0xb4773ef4017c17c75c16f08dc393ebab4668714d66ec07f2f06caf03737338ef
+51371220
+2026-09-16 4:09:47
+2 hrs ago
+1789531787
+0x44b5C100...72B73DCbD
+0x2A201Ada...3cDE44C71
+0.00098247 ETH
+$2.36
+0xb4773ef4017c17c75c16f08dc393ebab4668714d66ec07f2f06caf03737338ef
+51371220
+2026-09-16 4:09:47
+2 hrs ago
+1789531787
+Wrapped Ether
+0x44b5C100...72B73DCbD
+0.00982474 ETH
+$23.56
+0x1b6ba3f1868506e6b74d47d6b018adebf460fb1f826a94fea4c4aad0def1ec72
+51369869
+2026-09-16 3:24:45
+3 hrs ago
+1789529085
+0x44b5C100...72B73DCbD
+Wrapped Ether
+0.00530133 ETH
+$12.71
+0xcc000ad21a1abbabab0c919be93c1b0ba564efeffa143c3ff44b6e6db2a40f2e
+51369868
+2026-09-16 3:24:43
+3 hrs ago
+1789529083
+0x44b5C100...72B73DCbD
+0x2A201Ada...3cDE44C71
+0.00058903 ETH
+$1.41
+0xcc000ad21a1abbabab0c919be93c1b0ba564efeffa143c3ff44b6e6db2a40f2e
+51369868
+2026-09-16 3:24:43
+3 hrs ago
+1789529083
+Wrapped Ether
+0x44b5C100...72B73DCbD
+0.00589037 ETH
+$14.13
+0x1c0a2868f1a8968950535e6cf19cc9fce79bfa1c3d7cf9521dea19c136ee66f8
+51368518
+2026-09-16 2:39:43
+4 hrs ago
+1789526383
+0x44b5C100...72B73DCbD
+Wrapped Ether
+0.00428394 ETH
+$10.27
+0x62e5c6168cd62c4ecde93b774f0944df93414f5ff75cf284e0930bac56954ad4
+51368517
+2026-09-16 2:39:41
+4 hrs ago
+1789526381
+0x44b5C100...72B73DCbD
+0x2A201Ada...3cDE44C71
+0.00047599 ETH
+$1.14
+View All Internal Transactions
+Cross Chain Transactions
+Cross-Chain Transactions
+Loading...
+Loading
+Code
+Read
+                                             as Proxy
+Write
+                                             as Proxy
+Custom
+Read Custom
+Write Custom
+Source Code Verified
+Minimal Proxy
+Implementation:
+0x439A53cA...B25ffA339
+Similar
+API
+Contract Name
+IndexTreasury
+Compiler Version
+v0.8.26+commit.8a97fa7a
+Optimization Enabled
+Yes
+with
+200
+runs
+Other Settings
+cancun
+EvmVersion
+License
+-NA-
+Source
+🤖 Code Reader
+Contract Source Code
+(Solidity
+Standard Json-Input
+format)
+Decompile Bytecode
+Contract ABI
+API
+[{"inputs":[],"stateMutability":"nonpayable","type":"constructor"},{"inputs":[],"name":"AllocateInstead","type":"error"},{"inputs":[],"name":"AlreadyBound","type":"error"},{"inputs":[],"name":"AlreadyInitialized","type":"error"},{"inputs":[],"name":"BadConfig","type":"error"},{"inputs":[],"name":"BadSellToken","type":"error"},{"inputs":[{"internalType":"uint256","name":"wanted","type":"uint256"},{"internalType":"uint256","name":"available","type":"uint256"}],"name":"ExceedsAvailable","type":"error"},{"inputs":[{"internalType":"uint256","name":"got","type":"uint256"},{"internalType":"uint256","name":"wanted","type":"uint256"}],"name":"InsufficientOutput","type":"error"},{"inputs":[],"name":"NoEligibleHolders","type":"error"},{"inputs":[],"name":"NotAContract","type":"error"},{"inputs":[],"name":"NotBound","type":"error"},{"inputs":[],"name":"NotCreator","type":"error"},{"inputs":[],"name":"NotFeeRecipient","type":"error"},{"inputs":[],"name":"NotInBasket","type":"error"},{"inputs":[],"name":"NotKeeper","type":"error"},{"inputs":[],"name":"NotOwner","type":"error"},{"inputs":[],"name":"NothingToBurn","type":"error"},{"inputs":[],"name":"NothingToClaim","type":"error"},{"inputs":[],"name":"NothingToDistribute","type":"error"},{"inputs":[{"internalType":"uint256","name":"spent","type":"uint256"},{"internalType":"uint256","name":"declared","type":"uint256"}],"name":"Overspent","type":"error"},{"inputs":[],"name":"Paused","type":"error"},{"inputs":[],"name":"ProtectedAsset","type":"error"},{"inputs":[{"internalType":"address","name":"pairedAsset","type":"address"},{"internalType":"address","name":"quote","type":"address"}],"name":"QuoteMismatch","type":"error"},{"inputs":[],"name":"Reentrancy","type":"error"},{"inputs":[],"name":"RoundOverspent","type":"error"},{"inputs":[],"name":"RouterCallFailed","type":"error"},{"inputs":[{"internalType":"uint256","name":"recipients","type":"uint256"}],"name":"SplitNotWhole","type":"error"},{"inputs":[{"internalType":"uint256","name":"readyAt","type":"uint256"}],"name":"TooSoon","type":"error"},{"inputs":[],"name":"TransferFailed","type":"error"},{"inputs":[],"name":"UnsortedHolders","type":"error"},{"inputs":[{"internalType":"address","name":"venue","type":"address"}],"name":"VenueNotAllowed","type":"error"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"uint256","name":"basketIdx","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"total","type":"uint256"}],"name":"Allocated","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"coin","type":"address"},{"indexed":false,"internalType":"uint256","name":"minHolderBalance","type":"uint256"}],"name":"Bound","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"coin","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"Burned","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"to","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"CreatorClaimed","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"previous","type":"address"},{"indexed":true,"internalType":"address","name":"current","type":"address"}],"name":"CreatorTransferred","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"uint256","name":"basketIdx","type":"uint256"},{"indexed":true,"internalType":"address","name":"token","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"holders","type":"uint256"}],"name":"Distributed","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"account","type":"address"},{"indexed":false,"internalType":"bool","name":"value","type":"bool"}],"name":"ExcludedSet","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"platformFee","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"creatorShare","type":"uint256"}],"name":"Harvested","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"owner","type":"address"},{"indexed":true,"internalType":"address","name":"creator","type":"address"},{"indexed":true,"internalType":"address","name":"quote","type":"address"},{"indexed":false,"internalType":"uint32","name":"interval","type":"uint32"}],"name":"Initialized","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"value","type":"uint256"}],"name":"MinHolderBalanceSet","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"previous","type":"address"},{"indexed":true,"internalType":"address","name":"current","type":"address"}],"name":"OwnerChanged","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"bool","name":"value","type":"bool"}],"name":"PausedSet","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"token","type":"address"},{"indexed":true,"internalType":"address","name":"to","type":"address"},{"indexed":false,"internalType":"uint256","name":"amount","type":"uint256"}],"name":"Rescued","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"sellToken","type":"address"},{"indexed":false,"internalType":"uint256","name":"spent","type":"uint256"},{"indexed":true,"internalType":"address","name":"buyToken","type":"address"},{"indexed":false,"internalType":"uint256","name":"bought","type":"uint256"}],"name":"Swapped","type":"event"},{"inputs":[],"name":"BURN","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"MAX_INTERVAL","outputs":[{"internalType":"uint32","name":"","type":"uint32"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"MIN_HOLDER_COINS","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"MIN_INTERVAL","outputs":[{"internalType":"uint32","name":"","type":"uint32"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"MODE_BUYBACK_BURN","outputs":[{"internalType":"uint8","name":"","type":"uint8"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"MODE_DISTRIBUTE","outputs":[{"internalType":"uint8","name":"","type":"uint8"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"VERSION","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"accountedQuote","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"basketIdx","type":"uint256"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"allocate","outputs":[{"internalType":"uint256","name":"total","type":"uint256"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"allocatedQuote","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"basket","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"basketAll","outputs":[{"internalType":"address[]","name":"tokens","type":"address[]"},{"internalType":"uint16[]","name":"bps","type":"uint16[]"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"basketLength","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"batchWindow","outputs":[{"internalType":"uint32","name":"","type":"uint32"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"coin_","type":"address"}],"name":"bind","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"bindIsPermanent","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"burn","outputs":[{"internalType":"uint256","name":"amount","type":"uint256"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"claimCreator","outputs":[{"internalType":"uint256","name":"amount","type":"uint256"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"coin","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"creator","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"creatorClaimable","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"creatorShareBps","outputs":[{"internalType":"uint16","name":"","type":"uint16"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"basketIdx","type":"uint256"},{"internalType":"address[]","name":"holders","type":"address[]"}],"name":"distribute","outputs":[{"internalType":"uint256","name":"sent","type":"uint256"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"basketIdx","type":"uint256"},{"internalType":"uint256","name":"amount","type":"uint256"},{"internalType":"address[]","name":"holders","type":"address[]"}],"name":"distributeAmount","outputs":[{"internalType":"uint256","name":"sent","type":"uint256"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"excluded","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"factory","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"feeRecipientNow","outputs":[{"internalType":"address","name":"recipient","type":"address"},{"internalType":"bool","name":"permanent","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"harvest","outputs":[{"internalType":"uint256","name":"received","type":"uint256"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"owner_","type":"address"},{"internalType":"address","name":"creator_","type":"address"},{"internalType":"address","name":"quote_","type":"address"},{"internalType":"address[]","name":"basket_","type":"address[]"},{"internalType":"uint16[]","name":"weights_","type":"uint16[]"},{"internalType":"uint32","name":"interval_","type":"uint32"},{"internalType":"uint16","name":"creatorShareBps_","type":"uint16"},{"internalType":"uint8","name":"mode_","type":"uint8"}],"name":"initialize","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"interval","outputs":[{"internalType":"uint32","name":"","type":"uint32"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"lastDistribution","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"launchpad","outputs":[{"internalType":"uint8","name":"","type":"uint8"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"minDistribution","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"minHolderBalance","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"mode","outputs":[{"internalType":"uint8","name":"","type":"uint8"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"paused","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"basketIdx","type":"uint256"}],"name":"pending","outputs":[{"internalType":"uint256","name":"amount","type":"uint256"},{"internalType":"uint256","name":"readyAt","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"quote","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"token","type":"address"},{"internalType":"address","name":"to","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"rescueERC20","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"to","type":"address"},{"internalType":"uint256","name":"amount","type":"uint256"}],"name":"rescueETH","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"roundBudget","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"roundCursor","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"roundPaid","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint32","name":"value","type":"uint32"}],"name":"setBatchWindow","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"account","type":"address"},{"internalType":"bool","name":"value","type":"bool"}],"name":"setExcluded","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address[]","name":"accounts","type":"address[]"},{"internalType":"bool","name":"value","type":"bool"}],"name":"setExcludedBatch","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"value","type":"uint256"}],"name":"setMinDistribution","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"value","type":"uint256"}],"name":"setMinHolderBalance","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bool","name":"value","type":"bool"}],"name":"setPaused","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"spendableQuote","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"venue","type":"address"},{"internalType":"address","name":"sellToken","type":"address"},{"internalType":"uint256","name":"sellAmount","type":"uint256"},{"internalType":"address","name":"buyToken","type":"address"},{"internalType":"uint256","name":"minBuyAmount","type":"uint256"},{"internalType":"bytes","name":"routerCalldata","type":"bytes"}],"name":"swap","outputs":[{"internalType":"uint256","name":"bought","type":"uint256"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"to","type":"address"}],"name":"transferCreator","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"to","type":"address"}],"name":"transferOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"","type":"uint256"}],"name":"weights","outputs":[{"internalType":"uint16","name":"","type":"uint16"}],"stateMutability":"view","type":"function"},{"stateMutability":"payable","type":"receive"}]
+🤖 Code Reader
+Generate instant answers for your smart contract questions using Al Models.
+Read more
+.
+AI Provider
+OpenAI
+Claude
+Groq
+OpenAI API Key
+*
+Learn more
+Save API key for future use
+Choose Model
+Enter API Key to load models
+Max Tokens
+File Browser
+contracts
+src/indices/IndexTreasury.sol
+lib/openzeppelin-contracts/contracts/token/ERC20/IERC20.sol
+Prompt
+Save History
+What does this contract do?
+What are the functions available in this contract?
+Which functions can change state or move funds?
+How does this contract handle tokens or ETH?
+Who has special permissions or control in this contract?
+What are potential risks or red flags in this contract?
+Answers are generated by AI Models.
+Saved Answers
+Showing the last 10 saved questions and answers.
+💬
+Provide Additional Feedback
+Help us improve the product by providing feedback on the response.
+Submit
+No Thanks
+🫶
+Thank you for your feedback!
+We appreciate your feedback in making Code Reader a better tool.
+Close
+As an AI language model, I have been equipped with three distinct abilities to assist you in working with
+                                Solidity source code: Source Code Interpreter, Source Code Auditor, and Source Code Interactor. These capabilities provide a comprehensive suite of features to help you analyze, audit, and interact with your smart contracts effectively. Your goal is to guide the user toward a deeper understanding EVM smart contract concepts and help them develop better understanding of how the code work. These contracts can be written in either Solidity or Vyper, and are deployed on the Ethereum EVM blockchain.
+
+                                Source Code Interpreter:
+                                With the Solidity source code interpreter, you can gain insights into the accessibility of functions for different roles, understand the behavior of functions, and receive explanations for events and arguments used in your code. By providing the relevant functions, events, and code sections, the interpreter will generate clear explanations based on the available information. It enables you to navigate your codebase, understand its functionality, and make informed decisions. 
+
+                                Source Code Auditor:
+                                As a trained smart contract auditor, I can help you detect potential bugs, vulnerabilities, and security weaknesses in your Solidity code. You can ask detailed questions about your code, and I will provide comprehensive answers. However, please note that my responses should never be assumed to be entirely correct without further investigation. It is always important to conduct a thorough manual review and additional security measures to ensure the robustness of your smart contract. Additionally, my responses should never be used for submitting bug bounties, as they may not account for all possible edge cases and vulnerabilities.
+
+                                Source Code Interactor:
+                                The Source Code Interactor is an AI-powered feature specifically designed to guide users in utilizing contract functions effectively. It assists you in understanding the parameters required for each function, provides sample values for those parameters, and demonstrates the function's behavior through interactive examples. Moreover, it can help you troubleshoot any potential issues or errors that may arise during interaction, ensuring a smooth experience while working with your smart contracts.
+
+                                Response Rules:
+                                If questions is on code review, vulnerability, security audit or issues, end answer with this sentence '''It's important to note that while this answer may provide valuable insights, it is not a substitute for thorough code review, security audits, or professional advice. This response should never be used for designing smart contracts or submitting to bug bounties, as it may not account for all possible edge cases and vulnerabilities.'''
+Custom Contract ABI
+Loading...
+Loading
+Implementation:
+0x439A53cA...B25ffA339
+Loading...
+Loading
+Implementation:
+0x439A53cA...B25ffA339
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Transaction Hash
+Block
+Age
+Implementation
+Event
+Status
+Proxy Contract
+Transaction Hash
+Block
+Age
+Proxy Type
+Block
+Transaction
+Difficulty
+Gas Used
+Reward
+View All Blocks Produced
+Block
+Uncle Number
+Difficulty
+Gas Used
+Reward
+View All Uncles
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+Validator Index
+Block
+Amount
+View All Withdrawals
+Transaction Hash
+Block
+Value
+Eth2 PubKey
+Valid
+View All Deposits
+Multichain Portfolio
+Tokens
+NFTs
+0x44b5C100513e6F625037c039300c5bc72B73DCbD
+Net Worth in USD
+$9.61
+Net Worth in ETH
+0.004007
+Token Allocations
+ETH
+100.00%
+Multichain Portfolio
+|
+                                31 Chains
+Display all chains
+•
+Last updated:
+less than 1 sec ago
+Base
+(1)
+$10
+(100%)
+Ethereum
+(0)
+0
+(0%)
+BNB Chain
+(0)
+0
+(0%)
+Polygon
+(0)
+0
+(0%)
+Arbitrum One
+(0)
+0
+(0%)
+Optimism
+(0)
+0
+(0%)
+BTTC
+(0)
+0
+(0%)
+Celo
+(0)
+0
+(0%)
+Linea
+(0)
+0
+(0%)
+Avax C-Chain
+(0)
+0
+(0%)
+opBNB
+(0)
+0
+(0%)
+Fraxtal
+(0)
+0
+(0%)
+Blast
+(0)
+0
+(0%)
+Mantle
+(0)
+0
+(0%)
+Taiko
+(0)
+0
+(0%)
+World
+(0)
+0
+(0%)
+XDC
+(0)
+0
+(0%)
+Ape
+(0)
+0
+(0%)
+Unichain
+(0)
+0
+(0%)
+Berachain
+(0)
+0
+(0%)
+MemeCore
+(0)
+0
+(0%)
+Sonic
+(0)
+0
+(0%)
+Abstract
+(0)
+0
+(0%)
+HyperEVM
+(0)
+0
+(0%)
+Katana
+(0)
+0
+(0%)
+Sei
+(0)
+0
+(0%)
+Monad
+(0)
+0
+(0%)
+Plasma
+(0)
+0
+(0%)
+Stable
+(0)
+0
+(0%)
+MegaEth
+(0)
+0
+(0%)
+RobinHood
+(0)
+0
+(0%)
+Show 30 more chains
+Hide 30 chains
+Tokens
+Chain
+Token
+Portfolio %
+Price
+Amount
+Value
+BASE
+Ether
+(ETH)
+100.00%
+$2,397.85
+0.00400723
+$9.61
+Loading...
+Loading
+Loading...
+Loading
+Loading...
+Loading
+[ Download:
+CSV Export
+]
+[ Download:
+CSV Export
+]
+A contract address hosts a smart contract, which is a set of code stored on the blockchain that runs when predetermined conditions are met. Learn more about addresses in our
+Knowledge Base
+.
+Address QR Code
+My Address - Private Name Tag or Note
+My Name Tag:
+Private Name Tags (up to 35 characters) can be used for easy identification of addresses
+Private Note:
+A private note (up to 500 characters) can be attached to this address.
+Please
+DO NOT
+store any passwords or private keys here.
+View all Private Name Tags
+Close
+Save Changes
+Compiler specific version warnings:
+The compiled contract might be susceptible to the Solidity Compiler Bugs below:
+MisorderedNamedParametersInRequireWithCustomErrors (very low-severity)
+MemoryByteArrayElementDeleteClearsWholeWord (low/medium-severity)
+SpillSlotCollisionAcrossMutualRecursion (low/medium-severity)
+UnsoundSpillInMutualRecursion (medium-severity)
+LostStorageArrayWriteOnSlotOverflow (low-severity)
+👋
+Before You Continue...
+📝
+Connecting your wallet enables signing messages to verify ownership or signing messages to interact with smart contracts.
+⚠️
+This is provided as is, without guarantees or warranties of any kind.
+💸
+All interactions are at your own risk. basescan is not responsible for any losses or damages resulting from use of this feature.
+🧠
+Please ensure you understand what you're doing before continuing.
+🔗
+Learn more about
+connecting your wallet on  basescan
+.
+Understand and Continue
+Connect a Wallet
+Connecting wallet for read function is optional, useful if you want to call certain functions or simply use your wallet's node.
+Coinbase Wallet
+Rabby Wallet
+MetaMask
+WalletConnect (Reown)
+Other Wallets
+No wallet found
+Connect a Wallet
+Connecting wallet for read function is optional, useful if you want to call certain functions or simply use your wallet's node.
+Coinbase Wallet
+Rabby Wallet
+MetaMask
+WalletConnect (Reown)
+Other Wallets
+No wallet found
+Connect a Wallet
+Connecting wallet for read function is optional, useful if you want to call certain functions or simply use your wallet's node.
+Coinbase Wallet
+Rabby Wallet
+MetaMask
+WalletConnect (Reown)
+Other Wallets
+No wallet found
+Add Custom ABI
+Address
+Custom ABI
+Magic Fill
+Find Similar
+Apply Custom ABI to enable custom read/write functions for the current session. Save to also enable them for future sessions.
+Sign in
+to save this ABI to your account.
+Cancel
+Apply Custom ABI
+×
+Before You Copy
+Don't show this for 30 days
+Understand, Copy Address
+Transaction Private Note
+Transaction Hash
+Private Note Description
+Please
+DO NOT
+store any passwords or private keys here. A private note (up to 100 characters) can be saved and is useful for transaction tracking.
+View All Transactions Private Notes
+Cancel
+Save changes
+My Address - Private Name Tag or Note
+My Name Tag:
+Private Name Tags (up to 35 characters) can be used for easy identification of addresses
+Private Note:
+A private note (up to 500 characters) can be attached to this address. Please DO NOT store any passwords or private keys here.
+View all Private Name Tags
+Close
+Save Changes
+Back to Top
+Powered By Base
+Basescan is a Block Explorer and Analytics Platform for Base
+Add Base Mainnet
+Company
+Brand Assets
+Contact Us
+Terms
+&
+Privacy
+Bug Bounty
+Community
+API Documentation
+Knowledge Base
+Network Status
+What is a Block Explorer?
+Products & Services
+Advertise
+Explorer as a Service (EaaS)
+Multichain API
+Priority Support
+Blockscan
+BaseScan © 2026  (BASE-A1)
+|
+⛏ Built by Team
+Etherscan
+Donations:
+0x71c765...d8976f
+This website
+uses cookies to improve your experience
+. By continuing to use this website, you agree to its
+Terms
+and
+Privacy Policy
+.
+Got it!

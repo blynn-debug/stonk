@@ -1,0 +1,12 @@
+{
+  "block": 51376178,
+  "sqrtPriceX96": "44914555540554051158880623498267",
+  "token0": "0x4200000000000000000000000000000000000006",
+  "token1": "0x5ab000ff9b9ffe0349ce5ffa5fd86f217c3680f5",
+  "totalSupplyTokens": "1000000000",
+  "deadBalanceTokens": "87858684.989949528742452618",
+  "quoteUsdFromApi": "2399.051",
+  "tokenUsdFromSlot0": "0.007464907577909994789058758806741",
+  "marketCapAsStatsClient": "7464907.577909994789058758806741000000000",
+  "note": "Pool state is block-pinned. USD quote and API supply are separate cached snapshots; not all observations share a timestamp."
+}

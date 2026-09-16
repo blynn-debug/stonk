@@ -1,0 +1,16 @@
+{
+  "url": "https://basescan.org/address/0x71D1D363176723f85d98B8B430DF33cde89f0A7f#code",
+  "fetched_at_utc": "2026-09-16T06:47:15.690723+00:00",
+  "http_status": "200",
+  "error": "",
+  "path": "contracts/StonkFeeLocker2/page.html",
+  "sha256": "663099225ebf7a3c71eb9cce7a23809e23425768273e6cbc8cd082b582a6d376",
+  "name": "StonkFeeLocker2",
+  "address": "0x71D1D363176723f85d98B8B430DF33cde89f0A7f",
+  "chain_id": 8453,
+  "source_files": 28,
+  "abi_saved": true,
+  "implementations": [
+    "0x6c9c9fd81b914a59585d966af140211df0325273"
+  ]
+}

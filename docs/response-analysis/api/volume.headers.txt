@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Wed, 16 Sep 2026 06:53:52 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+X-Matched-Path: /api/volume
+X-Vercel-Cache: MISS
+X-Vercel-Id: icn1::iad1::c2m59-1789541632421-e7fa4d0081a2
+Transfer-Encoding: chunked
+

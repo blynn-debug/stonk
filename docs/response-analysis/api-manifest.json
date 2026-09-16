@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.thestonks.exchange/api/stonkex",
+    "fetched_at_utc": "2026-09-16T06:53:53.214234+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/api/stonkex.json",
+    "sha256": "920cea9c1c481756cbc71a0adb723b9f4f9516012f3d2584b9119e8c2ad0e23b",
+    "method": "GET",
+    "json_valid": true
+  },
+  {
+    "url": "https://www.thestonks.exchange/api/analytics",
+    "fetched_at_utc": "2026-09-16T06:53:52.733725+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/api/analytics.json",
+    "sha256": "f566bbe5969055f6d0950301ad7391f19c0f0fd9c0a23fc1bea23661338916be",
+    "method": "GET",
+    "json_valid": true
+  },
+  {
+    "url": "https://www.thestonks.exchange/api/volume",
+    "fetched_at_utc": "2026-09-16T06:53:53.050858+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/api/volume.json",
+    "sha256": "10d70962f75bb33a309f81e236a93fe3b4e563bdcb5c8313f6918ec18bd61729",
+    "method": "GET",
+    "json_valid": true
+  },
+  {
+    "url": "https://www.thestonks.exchange/api/dex-prices?addrs=0x4200000000000000000000000000000000000006,0x5ab000ff9B9FfE0349CE5ffA5fD86f217C3680F5&minLiq=0&quotes=0x4200000000000000000000000000000000000006,0x5ab000ff9B9FfE0349CE5ffA5fD86f217C3680F5",
+    "fetched_at_utc": "2026-09-16T06:53:52.833317+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "response-analysis/api/dex-prices.json",
+    "sha256": "36b6ff7bf3878fdb2eebcf13cb3ff627c3f69aebc3c9708f81594ad9396b3591",
+    "method": "GET",
+    "json_valid": true
+  }
+]

@@ -1,0 +1,99 @@
+Source: user-provided browser Network panel capture, 2026-09-16.
+Repeated server and x-vercel-id fields are preserved as supplied.
+
+Request URL: https://www.thestonks.exchange/about
+Request method: GET
+Status code: 200 OK
+Remote address: 216.150.1.193:443
+Referrer policy: strict-origin-when-cross-origin
+
+Response headers:
+server: Vercel
+x-vercel-id: RjI2O6nQty3oqRpkSvkkEssWDhxxNjHF
+age: 0
+cache-control: private, no-cache, no-store, max-age=0, must-revalidate
+content-encoding: br
+content-type: text/html; charset=utf-8
+date: Wed, 16 Sep 2026 06:41:19 GMT
+link: </_next/static/immutable/media/23b7a97ae3b5c134-s.p.0fcfx2a-jndc5.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/media/99e609270109b47d-s.p.1dgcou5jor5q_.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/media/de161955856a921d-s.p.3dojvicm65v_0.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/media/effe91970fc4db64-s.p.28xcb7557rbh2.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </img/float/bull.png>; rel=preload; as="image", </img/float/chart.png>; rel=preload; as="image", </img/float/base.png>; rel=preload; as="image"
+server: Vercel
+strict-transport-security: max-age=63072000
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+x-matched-path: /about
+x-powered-by: Next.js
+x-vercel-cache: MISS
+x-vercel-id: icn1::iad1::2j496-1789540879559-1ada0f689340
+
+Request headers:
+:authority: www.thestonks.exchange
+:method: GET
+:path: /about
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+accept-encoding: gzip, deflate, br, zstd
+accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7,ja-JP;q=0.6,ja;q=0.5
+cache-control: no-cache
+cookie: wagmi.store={"state":{"connections":{"__type":"Map","value":[]},"chainId":8453,"current":null},"version":3}
+pragma: no-cache
+priority: u=0, i
+sec-ch-ua: "Chromium";v="154", "Google Chrome";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: document
+sec-fetch-mode: navigate
+sec-fetch-site: same-origin
+sec-fetch-user: ?1
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+
+User source reference: local > desktop > stonk.txt
+
+Request URL: https://www.thestonks.exchange/stats
+Request method: GET
+Status code: 200 OK
+Remote address: 216.150.1.193:443
+Referrer policy: strict-origin-when-cross-origin
+
+Response headers:
+server: Vercel
+x-vercel-id: RjI2O6nQty3oqRpkSvkkEssWDhxxNjHF
+age: 0
+cache-control: private, no-cache, no-store, max-age=0, must-revalidate
+content-encoding: br
+content-type: text/html; charset=utf-8
+date: Wed, 16 Sep 2026 06:44:10 GMT
+link: </_next/static/immutable/media/23b7a97ae3b5c134-s.p.0fcfx2a-jndc5.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/media/99e609270109b47d-s.p.1dgcou5jor5q_.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/media/de161955856a921d-s.p.3dojvicm65v_0.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </_next/static/immutable/media/effe91970fc4db64-s.p.28xcb7557rbh2.woff2>; rel=preload; as="font"; crossorigin=""; type="font/woff2", </img/float/bull.png>; rel=preload; as="image", </img/float/chart.png>; rel=preload; as="image", </img/float/base.png>; rel=preload; as="image", </img/fomo.png>; rel=preload; as="image"
+server: Vercel
+strict-transport-security: max-age=63072000
+vary: rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch
+x-matched-path: /stats
+x-powered-by: Next.js
+x-vercel-cache: MISS
+x-vercel-id: icn1::iad1::69q7g-1789541049883-68dbccdc229b
+
+Request headers:
+:authority: www.thestonks.exchange
+:method: GET
+:path: /stats
+:scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+accept-encoding: gzip, deflate, br, zstd
+accept-language: ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7,ja-JP;q=0.6,ja;q=0.5
+cache-control: no-cache
+cookie: wagmi.store={"state":{"connections":{"__type":"Map","value":[]},"chainId":8453,"current":null},"version":3}
+pragma: no-cache
+priority: u=0, i
+referer: https://www.thestonks.exchange/about
+sec-ch-ua: "Chromium";v="154", "Google Chrome";v="154", "Not A(Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-dest: document
+sec-fetch-mode: navigate
+sec-fetch-site: same-origin
+sec-fetch-user: ?1
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.3
+
+User-supplied contract links:
+https://basescan.org/token/0x5ab000ff9B9FfE0349CE5ffA5fD86f217C3680F5
+https://basescan.org/address/0x4714f6EC81639Ca59EEBE634490a4d8671DCe7B4

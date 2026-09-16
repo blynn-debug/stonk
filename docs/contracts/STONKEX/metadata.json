@@ -1,0 +1,14 @@
+{
+  "url": "https://basescan.org/address/0x5ab000ff9B9FfE0349CE5ffA5fD86f217C3680F5#code",
+  "fetched_at_utc": "2026-09-16T06:47:15.868068+00:00",
+  "http_status": "200",
+  "error": "",
+  "path": "contracts/STONKEX/page.html",
+  "sha256": "2217756bb751ae128ec134f08f6efbde7ca7c69f6c755bc3635d34f054047e94",
+  "name": "STONKEX",
+  "address": "0x5ab000ff9B9FfE0349CE5ffA5fD86f217C3680F5",
+  "chain_id": 8453,
+  "source_files": 6,
+  "abi_saved": true,
+  "implementations": []
+}

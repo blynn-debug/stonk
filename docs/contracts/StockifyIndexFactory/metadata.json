@@ -1,0 +1,14 @@
+{
+  "url": "https://basescan.org/address/0x78b50dFFE7250638D6F2A24f56B0849CefA69498#code",
+  "fetched_at_utc": "2026-09-16T06:55:18.185778+00:00",
+  "http_status": "200",
+  "error": "",
+  "path": "contracts/StockifyIndexFactory/page.html",
+  "sha256": "f124fe21c3d3fc5c8b646d1914aad00eb9b5138c84ced76c9b2cedf0fef75d69",
+  "name": "StockifyIndexFactory",
+  "address": "0x78b50dFFE7250638D6F2A24f56B0849CefA69498",
+  "chain_id": 8453,
+  "source_files": 1,
+  "abi_saved": true,
+  "implementations": []
+}

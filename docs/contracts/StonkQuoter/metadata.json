@@ -1,0 +1,14 @@
+{
+  "url": "https://basescan.org/address/0x2826DF040b68F528f5DEF00A5727e14691B755b4#code",
+  "fetched_at_utc": "2026-09-16T06:47:16.342543+00:00",
+  "http_status": "200",
+  "error": "",
+  "path": "contracts/StonkQuoter/page.html",
+  "sha256": "610553761ffa18eacb2ceeaac34680b4291f1652f1048d2b4d9f4ab99e0d0a7e",
+  "name": "StonkQuoter",
+  "address": "0x2826DF040b68F528f5DEF00A5727e14691B755b4",
+  "chain_id": 8453,
+  "source_files": 3,
+  "abi_saved": true,
+  "implementations": []
+}

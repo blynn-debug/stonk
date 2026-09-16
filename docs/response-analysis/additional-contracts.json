@@ -1,0 +1,60 @@
+[
+  {
+    "url": "https://basescan.org/address/0x44b5c100513e6f625037c039300c5bc72b73dcbd#code",
+    "fetched_at_utc": "2026-09-16T06:55:18.356154+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "contracts/StonkexBuybackIndex/page.html",
+    "sha256": "c875be2c631798604daf11d26ae6af2a73df76e971669283c7945160d8443772",
+    "name": "StonkexBuybackIndex",
+    "address": "0x44b5c100513e6f625037c039300c5bc72b73dcbd",
+    "chain_id": 8453,
+    "source_files": 2,
+    "abi_saved": true,
+    "implementations": [
+      "0x439a53ca03b2761ea036173e93cfba3b25ffa339"
+    ]
+  },
+  {
+    "url": "https://basescan.org/address/0x7692AcC1CDd771D09EbCae3663e1843b2911BEC7#code",
+    "fetched_at_utc": "2026-09-16T06:55:18.912231+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "contracts/StonkexPool/page.html",
+    "sha256": "6d3eb1486d826f6c9d25d8718d40533885c6925906a7ccd41f46611aded50848",
+    "name": "StonkexPool",
+    "address": "0x7692AcC1CDd771D09EbCae3663e1843b2911BEC7",
+    "chain_id": 8453,
+    "source_files": 31,
+    "abi_saved": true,
+    "implementations": []
+  },
+  {
+    "url": "https://basescan.org/address/0x78b50dFFE7250638D6F2A24f56B0849CefA69498#code",
+    "fetched_at_utc": "2026-09-16T06:55:18.185778+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "contracts/StockifyIndexFactory/page.html",
+    "sha256": "f124fe21c3d3fc5c8b646d1914aad00eb9b5138c84ced76c9b2cedf0fef75d69",
+    "name": "StockifyIndexFactory",
+    "address": "0x78b50dFFE7250638D6F2A24f56B0849CefA69498",
+    "chain_id": 8453,
+    "source_files": 1,
+    "abi_saved": true,
+    "implementations": []
+  },
+  {
+    "url": "https://basescan.org/address/0x439a53ca03b2761ea036173e93cfba3b25ffa339#code",
+    "fetched_at_utc": "2026-09-16T06:56:42.703983+00:00",
+    "http_status": "200",
+    "error": "",
+    "path": "contracts/implementation-0x439a53ca03b2761ea036173e93cfba3b25ffa339/page.html",
+    "sha256": "89a62f7878fcd87461526c76fdaeae34e22c90245f4e8d296e0171c7487be01b",
+    "name": "implementation-0x439a53ca03b2761ea036173e93cfba3b25ffa339",
+    "address": "0x439a53ca03b2761ea036173e93cfba3b25ffa339",
+    "chain_id": 8453,
+    "source_files": 2,
+    "abi_saved": true,
+    "implementations": []
+  }
+]

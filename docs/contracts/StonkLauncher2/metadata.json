@@ -1,0 +1,16 @@
+{
+  "url": "https://basescan.org/address/0x4714f6EC81639Ca59EEBE634490a4d8671DCe7B4#code",
+  "fetched_at_utc": "2026-09-16T06:47:15.273589+00:00",
+  "http_status": "200",
+  "error": "",
+  "path": "contracts/StonkLauncher2/page.html",
+  "sha256": "00be1e95144ec06a331dbbba9ac741ab84f5ca6f9814b543c0aaa175bdde42df",
+  "name": "StonkLauncher2",
+  "address": "0x4714f6EC81639Ca59EEBE634490a4d8671DCe7B4",
+  "chain_id": 8453,
+  "source_files": 40,
+  "abi_saved": true,
+  "implementations": [
+    "0x6a9f14e7742e8972fcf86429c5aa7db56589806d"
+  ]
+}
